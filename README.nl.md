@@ -51,7 +51,7 @@ Bereik volledige financiële zichtbaarheid in vier begeleide stappen zonder ook 
    Herhaal het gegevensimportproces wekelijks of maandelijks. Oude gegevens blijven financieel vergrendeld en controleerbaar, terwijl nieuwe transacties direct worden verwerkt via uw gestandaardiseerde kader.
 
 🚀 **Klaar om van het schatten van marges over te stappen naar ze exact te kennen?**  
-*Bent u klaar met het testen van uw eerste batch orders in de browser? [Download de volledige herbruikbare e-commerce Excel-sjabloon](https://www.theseusworkshop.com/l/xsbprl) om uw weekelijkse financiële rapportage permanent te automatiseren, uw gegevens lokaal op te slaan en een herhaalbare maandafsluitingslus voor reconciliatie op te bouwen.*
+*Bent u klaar met het testen van uw eerste batch orders in de browser? [Download de volledige herbruikbare e-commerce Excel-sjabloon](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence) om uw weekelijkse financiële rapportage permanent te automatiseren, uw gegevens lokaal op te slaan en een herhaalbare maandafsluitingslus voor reconciliatie op te bouwen.*
 
 ---
 
