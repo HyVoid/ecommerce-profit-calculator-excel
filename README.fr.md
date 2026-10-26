@@ -51,7 +51,7 @@ Obtenez une visibilité financière complète en quatre étapes guidées sans é
    Répétez le processus d'importation de données chaque semaine ou chaque mois. Les anciennes données restent financièrement verrouillées et auditables, tandis que les nouvelles transactions sont instantanément traitées dans votre cadre standardisé.
 
 🚀 **Prêt à passer de l'estimation des marges à leur connaissance exacte ?**  
-*Vous avez fini de tester votre premier lot de commandes dans le navigateur ? [Téléchargez le modèle Excel e-commerce réutilisable complet](https://www.theseusworkshop.com/l/xsbprl) pour automatiser durablement votre reporting financier hebdomadaire, enregistrer vos données localement et construire une boucle de réconciliation de clôture mensuelle reproductible.*
+*Vous avez fini de tester votre premier lot de commandes dans le navigateur ? [Téléchargez le modèle Excel e-commerce réutilisable complet](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence) pour automatiser durablement votre reporting financier hebdomadaire, enregistrer vos données localement et construire une boucle de réconciliation de clôture mensuelle reproductible.*
 
 ---
 
