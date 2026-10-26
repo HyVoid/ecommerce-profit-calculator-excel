@@ -51,7 +51,7 @@ Achieve complete financial visibility in four guided steps without writing a sin
    Repeat the data import process weekly or monthly. Old data remains financially locked and auditable, while new transactions are instantly processed through your standardized framework.
 
 🚀 **Ready to transition from estimating margins to knowing them?**  
-*Finished testing your first batch of orders in the browser? [Download the full Reusable E-commerce Excel Template](https://www.theseusworkshop.com/l/xsbprl) to permanently automate your weekly financial reporting, save your data locally, and build a repeatable month-end reconciliation loop.*
+*Finished testing your first batch of orders in the browser? [Download the full Reusable E-commerce Excel Template](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence) to permanently automate your weekly financial reporting, save your data locally, and build a repeatable month-end reconciliation loop.*
 
 ---
 
