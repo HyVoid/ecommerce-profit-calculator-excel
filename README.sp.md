@@ -51,7 +51,7 @@ Logre visibilidad financiera completa en cuatro pasos guiados sin escribir una s
    Repita el proceso de importación de datos semanal o mensualmente. Los datos antiguos permanecen bloqueados financieramente y auditables, mientras que las nuevas transacciones se procesan instantáneamente a través de su marco estandarizado.
 
 🚀 **¿Listo para pasar de estimar márgenes a conocerlos?**  
-*¿Terminó de probar su primer lote de pedidos en el navegador? [Descargue la plantilla completa de Excel reutilizable para e-commerce](https://www.theseusworkshop.com/l/xsbprl) para automatizar permanentemente su informe financiero semanal, guardar sus datos localmente y construir un bucle repetible de conciliación de cierre mensual.*
+*¿Terminó de probar su primer lote de pedidos en el navegador? [Descargue la plantilla completa de Excel reutilizable para e-commerce](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence) para automatizar permanentemente su informe financiero semanal, guardar sus datos localmente y construir un bucle repetible de conciliación de cierre mensual.*
 
 ---
 
