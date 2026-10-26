@@ -51,7 +51,7 @@ Erreichen Sie vollständige finanzielle Transparenz in vier geführten Schritten
    Wiederholen Sie den Datenimport wöchentlich oder monatlich. Alte Daten bleiben finanziell gesperrt und prüffähig, während neue Transaktionen sofort durch Ihren standardisierten Rahmen verarbeitet werden.
 
 🚀 **Bereit, vom Schätzen von Margen zu deren genauer Kenntnis überzugehen?**  
-*Haben Sie Ihre erste Testcharge von Bestellungen im Browser abgeschlossen? [Laden Sie die vollständige wiederverwendbare E-Commerce-Excel-Vorlage herunter](https://www.theseusworkshop.com/l/xsbprl), um Ihre wöchentliche Finanzberichterstattung dauerhaft zu automatisieren, Ihre Daten lokal zu speichern und eine wiederholbare Monatsabschluss-Abstimmungsschleife aufzubauen.*
+*Haben Sie Ihre erste Testcharge von Bestellungen im Browser abgeschlossen? [Laden Sie die vollständige wiederverwendbare E-Commerce-Excel-Vorlage herunter](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence), um Ihre wöchentliche Finanzberichterstattung dauerhaft zu automatisieren, Ihre Daten lokal zu speichern und eine wiederholbare Monatsabschluss-Abstimmungsschleife aufzubauen.*
 
 ---
 
