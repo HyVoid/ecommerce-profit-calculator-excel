@@ -85,21 +85,21 @@ export const Sidebar: React.FC<SidebarProps> = ({
         {!isCollapsed ? (
           <div className="flex items-center gap-3 overflow-hidden">
             <div className="w-9 h-9 rounded-lg bg-[#051C2C] flex items-center justify-center text-white font-bold text-sm tracking-wider font-heading shrink-0 shadow-xs">
-              PE
+              TW
             </div>
             <div className="min-w-0">
-              <h1 className="font-heading font-bold text-[13px] text-[#051C2C] leading-tight tracking-tight truncate" title="Order-Level Profit Engine">
-                Order-Level Profit Engine
+              <h1 className="font-heading font-bold text-[14px] text-[#051C2C] leading-tight tracking-tight truncate" title="Theseus Workshop">
+                Theseus Workshop
               </h1>
-              <p className="text-[10px] text-[#888888] tracking-wider uppercase truncate" title="Financial Reconciliation Toolkit">
-                Financial Reconciliation Toolkit
+              <p className="text-[10px] text-[#888888] tracking-wider truncate font-mono" title="ecommerce-profit-calculator-excel">
+                ecommerce-profit-calculator-excel
               </p>
             </div>
           </div>
         ) : (
           <div className="w-full flex justify-center">
-            <div className="w-9 h-9 rounded-lg bg-[#051C2C] flex items-center justify-center text-white font-bold text-sm tracking-wider font-heading shadow-xs">
-              PE
+            <div className="w-9 h-9 rounded-lg bg-[#051C2C] flex items-center justify-center text-white font-bold text-sm tracking-wider font-heading shadow-xs" title="Theseus Workshop - ecommerce-profit-calculator-excel">
+              TW
             </div>
           </div>
         )}

@@ -8,11 +8,11 @@ export const Footer: React.FC = () => {
         <div className="flex items-center gap-2">
           <Lock className="w-3.5 h-3.5 text-[#00C853]" />
           <span>
-            <strong>Data Privacy Note:</strong> All data storage in this tool is kept entirely within your local browser storage (localStorage). No user data is transmitted to or retained on any external server.
+            All data in this tool is stored in your browser's localStorage. The page itself does not retain any user data.
           </span>
         </div>
         <div className="text-right">
-          <span>Order-Level Profit Engine & Financial Reconciliation Toolkit v1.0 • Point-in-Time Accounting</span>
+          <span>Theseus Workshop • ecommerce-profit-calculator-excel</span>
         </div>
       </div>
     </footer>
