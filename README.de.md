@@ -1,109 +1,153 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# E-Commerce-Gewinn- & Abstimmungs-Excel-Toolkit: Omnichannel-Margenrechner
+# E-Commerce-Gewinnmargenrechner & Excel-Vorlage zur finanziellen Abstimmung: SKU-Tracker auf Bestellniveau & kostenlose Web-App
 <img width="1379" height="790" alt="image" src="https://github.com/user-attachments/assets/4e150c8b-7711-4d92-83fb-9bafae27f171" />
 
 
+<p align="left">
+  <strong>Sofort einsatzbereite Omnichannel-Nettogewinn-Tabelle, Auszahlung-zu-Bank-Abstimmungstool und 3PL-Versandkosten-Verteiler für Shopify-, Amazon- & grenzüberschreitende Verkäufer — ohne Formelbearbeitung oder Buchhaltungskenntnisse.</strong>
+</p>
+
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
-![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange)
+![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Microsoft%20Excel-success)
+![Category](https://img.shields.io/badge/Template-E--commerce%20Profit%20%26%20Payout%20Reconciliation-orange)
+![Skill Level](https://img.shields.io/badge/User%20Level-Beginner%20Friendly%20%7C%201--Minute%20Copy%20%26%20Paste-brightgreen)
 
-<p><strong>Das Excel-Toolkit für E-Commerce-Gewinnintelligenz & Abstimmung</strong> ist ein maßgebliches Finanzmodellierungs-Tabellenblatt, das die wahre <strong>Profitabilität auf Bestellniveau</strong> und die <strong>SKU-Margen</strong> über mehrere Vertriebskanäle (Shopify, Amazon, bol.com), grenzüberschreitende Währungen, Versandmodelle und Zahlungs-Gateway-Systeme hinweg analysiert. Beseitigen Sie buchhalterische Diskrepanzen mit dieser einsatzbereiten <strong>Vorlage zur finanziellen E-Commerce-Abstimmung</strong>—führen Sie sie direkt im Browser oder in Excel aus, ohne SaaS-Installation, ohne monatliche Abonnements und ohne manuelle Formeleingabe.</p>
+**Das E-Commerce-Gewinn- & Abstimmungs-Excel-Toolkit ist eine sofort einsatzbereite, Plug-and-Play-E-Commerce-Gewinnmargenrechner-Tabelle (.xlsx) und eine kostenlose browserbasierte Web-App zur finanziellen Abstimmung für Online-Shop-Einsteiger, Shopify-Händler, Amazon-Verkäufer und kleine Unternehmen.** Als Code-freie Alternative zu teurer SaaS-Buchhaltungssoftware berechnet dieses automatisierte Finanzmodell die wahre **Unit-Ökonomie auf Bestellniveau** und **Netto-SKU-Margen** über mehrere Vertriebskanäle (Shopify, Amazon Seller Central, bol.com, WooCommerce), grenzüberschreitende Währungen, 3PL-Versandrechnungen und Zahlungs-Gateways (Stripe, PayPal, Adyen) hinweg. Beseitigen Sie Auszahlungsdiskrepanzen, versteckte Fulfillment-Gebühren, MwSt./Verkaufssteuer-Fehlberechnungen und COGS-Fehler (Cost of Goods Sold) durch einen einfachen Copy-&-Paste-Workflow—ohne eine einzige `VLOOKUP`-, `INDEX/MATCH`-Formel oder ein Makro zu schreiben.
 
-**Keine Registrierung. Keine Installation. Kostenlos in Ihrem Browser.**
+**Keine Softwareinstallation. Keine monatlichen SaaS-Abonnementgebühren. Gewinnanalyse per Copy-&-Paste in 1 Minute.**
 
-Testen Sie die Browserversion kostenlos. Wenn Sie die dauerhafte Excel-Version für eine sichere, lokale Monatsabschluss-Verrechnung benötigen, können Sie sie mit einer 30-tägigen, unverbindlichen Geld-zurück-Garantie kaufen.
+Testen Sie die Abstimmungs-Engine auf Bestellniveau sofort in Ihrem Browser mit der kostenlosen interaktiven Web-App, oder laden Sie die dauerhafte, offline-fähige Microsoft-Excel-Tabellenvorlage herunter (mit 30-tägiger, unverbindlicher Geld-zurück-Garantie) für wiederholbare wöchentliche Gewinnverfolgung und finanziellen Monatsabschluss.
 
-> 🌐 **Live-Interaktive Demo** → [*Testen Sie den kostenlosen E-Commerce-Gewinnmargenrechner (HTML im Browser)*](https://hyvoid.github.io/ecommerce-profit-calculator-excel/)
+> 🌐 **Testen Sie den kostenlosen Online-Gewinnrechner (Sofort-Browser-Sandbox)**  
+> [**Starten Sie die kostenlose interaktive webbasierte E-Commerce-Gewinnmargenrechner- & Bestellabstimmungs-Demo**](https://hyvoid.github.io/ecommerce-profit-calculator-excel/)
 >
-> 📥 **Vollständige Vorlage herunterladen** → [*Laden Sie das wiederverwendbare E-Commerce-Gewinn- & Abstimmungs-Excel-Toolkit herunter*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
+> 📥 **Holen Sie sich das automatisierte Offline-Excel-System (wiederholbare Finanzdatenbank)**  
+> [**Laden Sie die Plug-and-Play-E-Commerce-Gewinn- & Auszahlungsabstimmungs-Excel-Vorlage (.xlsx) mit automatisch aktualisierenden Formeln herunter**](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
 
 ---
 
-## Finanzielle Schmerzpunkte im E-Commerce & automatisierte Lösungen
+## Was dieses Toolkit verfolgt: Finanzielle Schmerzpunkte im E-Commerce vs. automatisierte Tabellenlösungen
 
-Hören Sie auf, Ihre Bruttomargen zu schätzen. Dieses Toolkit bildet Ihre komplexesten Omnichannel-Herausforderungen in der Buchhaltung direkt auf automatisierte Finanzlösungen ab.
+Hören Sie auf, Ihre Bruttomargen aus irreführenden Shop-Dashboards zu schätzen. Diese **automatisierte E-Commerce-Buchhaltungstabelle** überführt Ihre unübersichtlichsten Omnichannel-Finanzdaten direkt in prüffähige Gewinnkennzahlen.
 
-| Zentraler finanzieller Schmerzpunkt im E-Commerce | Wie dieses Gewinnanalyse-Toolkit ihn löst |
-| :--- | :--- |
-| **Versteckte Betriebskosten & ungenaue SKU-Margen** | Berechnet den wahren **Nettogewinn auf Bestellniveau** nach Abzug tatsächlicher 3PL-Versandkosten, Stripe-/PayPal-Zahlungs-Gateway-Gebühren, Marktplatz-Provisionen, MwSt., Rückerstattungen und tatsächlicher COGS. |
-| **Verzerrte Daten durch sich ändernde Lieferantenkosten & FX-Kurse** | Sichert die **historische Profitabilität** mithilfe zeitpunktgenauer Wechselkurse und datumsspezifischer Beschaffungskosten. Monatsberichte der Vergangenheit bleiben perfekt korrekt, selbst wenn Ihr Lieferant heute die Preise erhöht. |
-| **Rätselraten bei der Zuweisung der Versandkosten für Bundles** | Ersetzt Pauschalschätzungen durch **tatsächliche Abstimmung von Logistikrechnungen** und verteilt echte Frachtkosten intelligent auf Multi-SKU-Sendungen—basierend auf Volumengewicht oder benutzerdefinierter Logik. |
-| **Marktplatz-Auszahlungen stimmen nicht mit Bankeinzahlungen überein** | Automatisiert die **finanzielle Abstimmung** über einzelne Kundenbestellungen, aggregierte Marktplatz-Auszahlungen, Logistikabrechnungen und tatsächliche Bankunterlagen—vor dem Monatsabschluss. |
-| **Gewinnverlust durch unsichtbare betriebliche Ineffizienzen** | Visualisiert **Margin-Trends** nach Marktplattform, Zielland, Währung, SKU oder 3PL-Fulfillment-Strategie—über ein einheitliches, für das Management aufbereitetes Dashboard. |
-
----
-
-## So berechnen Sie Ihren E-Commerce-Gewinn (Schnellstart-Tutorial)
-
-Erreichen Sie vollständige finanzielle Transparenz in vier geführten Schritten, ohne eine einzige Excel-Formel zu schreiben.
-
-1. **Konfigurieren Sie Ihre finanziellen Basisparameter (einmalige Einrichtung)**  
-   Öffnen Sie das **Parameter-Dashboard** und definieren Sie Ihre betrieblichen Annahmen: Basis-Berichtswährung, Standard-MwSt.-Sätze, Toleranzschwellen für die buchhalterische Abstimmung, Gebührenstrukturen der Zahlungs-Gateways und historische FX-Kurstabellen. Dies schafft eine einzige Quelle der Wahrheit für Ihr gesamtes E-Commerce-Finanzmodell.
-
-2. **Importieren Sie Omnichannel-Vertriebs- & Logistikdaten (Datenaufnahme)**  
-   Exportieren Sie rohe CSV-Berichte (Bestellungen, Abwicklungsauszahlungen, 3PL-Logistikrechnungen, Rückerstattungen, Werbeausgaben) direkt aus Shopify, Amazon Seller Central, bol.com oder Ihrer Buchhaltungssoftware. Fügen Sie sie in die vorgesehenen **Eingabemodule** ein, ohne Formeln neu aufzubauen oder Daten zu bereinigen.
-
-3. **Starten Sie die automatisierte Profitabilitäts- & Abstimmungs-Engine**  
-   Wechseln Sie zur **Berechnungs-Engine** oder zum **Executive Dashboard**. Beobachten Sie, wie die Vorlage automatisch historische COGS zuordnet, Versandkosten auf die SKU-Ebene verteilt, den Abstimmungsstatus prüft und die Management-KPIs (Gross Margin, Net Profit, ROAS) in Echtzeit aktualisiert.
-
-4. **Aktualisieren Sie für den kontinuierlichen Monatsabschluss**  
-   Wiederholen Sie den Datenimport wöchentlich oder monatlich. Alte Daten bleiben finanziell gesperrt und prüffähig, während neue Transaktionen sofort durch Ihren standardisierten Rahmen verarbeitet werden.
-
-🚀 **Bereit, vom Schätzen von Margen zu deren genauer Kenntnis überzugehen?**  
-*Haben Sie Ihre erste Testcharge von Bestellungen im Browser abgeschlossen? [Laden Sie die vollständige wiederverwendbare E-Commerce-Excel-Vorlage herunter](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence), um Ihre wöchentliche Finanzberichterstattung dauerhaft zu automatisieren, Ihre Daten lokal zu speichern und eine wiederholbare Monatsabschluss-Abstimmungsschleife aufzubauen.*
+| Hochfrequentes finanzielles Tracking-Modul | Häufiger buchhalterischer Schmerzpunkt im E-Commerce | Automatisierte Excel-Toolkit-Lösung | Umsetzbare Gewinn- & Cashflow-KPIs |
+| :--- | :--- | :--- | :--- |
+| **Nettogewinn auf Bestellniveau & Unit-Ökonomie** | Standard-Shop-Dashboards zeigen hohe Bruttoumsätze, während versteckte Gebühren Bestellungen lautlos unprofitabel machen. | Zieht automatisch MwSt./Verkaufssteuer, Stripe-/PayPal-Verarbeitungsgebühren, Plattformprovisionen, exakten COGS und tatsächliche 3PL-Frachtkosten pro Bestellung ab. | Wahrer Nettogewinn pro Bestellung ($), Nettomarge (%), Deckungsbeitrag pro SKU. |
+| **Historischer COGS & Multi-Währungs-FX-Sperre** | Werden Lieferantenkosten oder Wechselkurse heute aktualisiert, überschreibt das versehentlich die Gewinnberichte des Vormonats und macht sie unbrauchbar. | Sichert die historische Profitabilität mit datumsspezifischen Beschaffungskosten und zeitpunktgenauen Devisenkursen (FX). | Datumsgematchter COGS ($), Auswirkung der FX-Konversionsspanne, Margin-Genauigkeit über Perioden hinweg. |
+| **3PL-Versandrechnungen & Bundle-Kostenverteilung** | Pauschale Versandkostenschätzungen verzerren die Margen bei Mehrartikel-Bestellungen, Aktionsbundles und schweren SKUs. | Stimmt die tatsächliche 3PL-Spediteursabrechnung ab und verteilt echte Frachtkosten nach Gewicht oder benutzerdefinierten Regeln auf Multi-SKU-Bestellungen. | Wahrer Landed-Fulfillment-Kosten pro SKU, Bundle-Margenaufschlüsselung, nicht abgerechnete Frachtabweichung. |
+| **Abstimmung von Marktplatz-Auszahlungen auf Bankeinzahlungen** | Shopify-, Amazon- oder Stripe-Abwicklungsauszahlungen stimmen aufgrund von Rücklagen, Rückerstattungen und Zeitverzögerungen nie mit tatsächlichen Bankeinzahlungen überein. | Verknüpft einzelne Kunden-Bestell-IDs mit aggregierten Plattform-Auszahlungschargen, 3PL-Rechnungen und Bankauszugseinzahlungen. | Nicht abgestimmter Auszahlungssaldo ($), Warnungen bei fehlenden Einzahlungen, Verfolgung ausstehender Abwicklungs-Rücklagen. |
+| **Rückerstattungs-, Retouren- & Chargeback-Zuordnung** | Hohe Retourenquoten im Januar lassen die Gewinnkennzahlen des Januar künstlich einbrechen, statt die Weihnachtsverkaufsdaten des Dezember zu korrigieren. | Verankert jede Rückerstattung, Retourengebühr und Lieferantengutschrift strikt an der ursprünglichen Transaktions-Bestell-ID und Verkaufsperiode. | Bereinigte Nettomarge nach Retoure, Rückerstattungs-Verlustrate (%) pro SKU, wahrer Kampagnen-ROAS. |
+| **Omnichannel- & grenzüberschreitende Performance** | Keine Sicht darauf, welches Land, welche Währung, welcher Marktplatz oder welches 3PL-Lager tatsächlich Cash generiert und welches Kapital verbrennt. | Konsolidiert Multi-Store-, Multi-Land-CSV-Exporte in einem Management-Dashboard, ohne fragil gewordene Arbeitsblatt-Tabs hinzuzufügen. | Nettomarge pro Vertriebskanal, Steuer- & Zollbelastung pro Land, Ranking profitabler vs. verlustreicher SKUs. |
 
 ---
 
-## Die Geschäftslogik & Methodik
+## Für wen dieses Toolkit gedacht ist: Ziel-Funktionen & einsatzbereite E-Commerce-Vorlagen
 
-Dieses Toolkit basiert auf einem fundamentalen Wechsel von „Bargeld-Basis-Illusionen" zu **„Accrual-artiger Bestell-Unit-Ökonomie"**.
+Dieses Toolkit wurde für Betreiber und Finanzteams entwickelt, die **sofortige Profitabilitätsanalyse auf Enterprise-Niveau** mit Standard-CSV-Exporten benötigen—ohne jedes Jahr Tausende Dollar für Blackbox-BI-Tools oder ERP-Implementierungen auszugeben.
 
-Das Geschäftsproblem, das es löst, ist die **Wachstumsillusion**: Wenn der Umsatz auf dem Shopify-Dashboard gesund aussieht, der Nettogewinn am Ende aber durch unsichtbare betriebliche Reibung (hohe Retourenquoten, versteckte Zahlungs-Gateway-Zuschläge, falsch zugewiesene Frachtkosten) blutet.
+* 🛒 **Shopify- & D2C-Shop-Betreiber + Echter Nettogewinnmargenrechner als Tabelle:** Hören Sie auf, Facebook-, TikTok- oder Google-Anzeigen auf Basis aufgeblähter Bruttomargen zu skalieren. Kennen Sie Ihren exakten Nettogewinn pro Bestellung nach Versand, Gateway-Gebühren und Retouren, um profitable Break-Even-ROAS-Ziele zu setzen.
+* 📦 **Amazon FBA/FBM- & Multichannel-Verkäufer + Vorlage für Abwicklungsauszahlungs-Abstimmung:** Entwirren Sie komplexe Marktplatz-Abwicklungsberichte, Referral-Gebühren, Fulfillment-Abzüge und Rücklagen-Sperren über Amazon Seller Central, bol.com und Shopify hinweg in einer einzigen Arbeitsmappe.
+* 💼 **Teilzeit-CFOs & E-Commerce-Buchhalter + Excel-Finanzmodell für den Monatsabschluss:** Überbrücken Sie die chaotische Datenlücke zwischen rohen Marktplatz-CSV-Dumps und formeller Buchhaltungssoftware (QuickBooks, Xero, NetSuite) mit einer deterministischen, Bestell-ID-gematchten Prüfspur.
+* 📈 **Performance-Marketing-Agenturen & Media Buyer + Nettomargen- & ROAS-Attributionstool:** Weisen Sie den realen Netto-Gewinn aus Werbeausgaben nach, unter Einbeziehung von Bundle-Rabatten, Gratisgeschenk-Beschaffungskosten und Rückerstattungsquoten nach dem Kauf.
+* 🚚 **Omnichannel-Betriebsmanager + Tabelle zur 3PL-Fracht- & Bundle-Kostenverteilung:** Prüfen Sie Third-Party-Logistics(3PL)-Rechnungen gegen geschätzte Versandkosten und verteilen Sie Fulfillment-Kosten exakt auf komplexe Multi-SKU-Bestellungen.
 
-**Enthaltene Kernmethodiken:**
-*   **Waterfall-Kostenzurechnung:** Vom Umsatz werden systematisch abgezogen: MwSt./Verkaufssteuer → Zahlungsabwicklungsgebühren → Marktplatz-Provisionen → COGS zum exakten Datum → tatsächliche Fracht = Echte Nettomarge.
-*   **Deterministisches Bestell-Matching:** Anders als einfache Cashflow-Tabellen verankert dieses Modell jedes Finanzereignis (verzögerte Auszahlungen, späte Rückerstattungen, rückwirkende Lieferantenrabatte) strikt an der *ursprünglichen Bestell-ID*. Dies verhindert periodenverschiebende Verzerrungen, bei denen die Rückerstattungen des Vormonats die Profitabilitätskennzahlen des laufenden Monats zerstören.
-*   **Hierarchische Frachtverteilung:** Priorisiert tatsächliche Logistikrechnungen für Versandkosten; greift nur dann auf eine validierte algorithmische Schätzung zurück, wenn die offizielle Abrechnung aussteht.
+*(Hinweis: Dieses Excel-Toolkit ist eine betriebliche Gewinnintelligenz- und Abstimmungs-Engine; es ist nicht dafür gedacht, gesetzliche Steuererklärungssoftware mit doppelter Buchführung oder Live-Warehouse-Barcode-Scanning-WMS-Plattformen zu ersetzen.)*
 
 ---
 
-## Lösung häufiger E-Commerce-Buchhaltungs- & Abstimmungsprobleme
+## Am besten geeignete Betriebsszenarien: Lösung von Anfänger- & Hauptsaison-Engpässen im E-Commerce
 
-| Betriebliche buchhalterische Herausforderung | Ohne finanzielle Abstimmung | Mit diesem Gewinnintelligenz-Toolkit |
+Ob Sie Ihre ersten 500 grenzüberschreitenden Bestellungen abstimmen oder Q4-Black-Friday-/-Cyber-Monday-(BFCM)-Volumenspitzen überstehen—diese **downloadbare E-Commerce-Gewinntabelle** entfernt finanzielle blinde Flecken für Nicht-Buchhalter:
+
+1. **Das Rätsel der „hohen Einnahmen, leeren Bankkonto":** Ihr Shop-Dashboard feiert 50.000 $ Monatsumsatz, doch Ihr Bankguthaben wächst kaum. Sie benötigen sofort eine Möglichkeit zu sehen, wie viel Cash an 3PL-Zuschlägen, Zahlungsabwicklergebühren, MwSt. und Rückerstattungen verliert.
+2. **Hauptsaison-Stress (Q4 / BFCM / Prime-Day-Betrieb):** In den Wochen der Spitzenaktionen haben Sie keine Zeit, 10 Stunden mit kaputten `#REF!`-Formeln oder dem manuellen Abgleich von Stripe-Auszahlungen zu verbringen. Sie benötigen einen **1-Minuten-Copy-&-Paste-Gewinnanalysator**, um sofort zu erkennen, welche rabattierten Bundles Geld verlieren, und die Preise flexibel anzupassen.
+3. **Grenzüberschreitende & Multi-Währungs-Expansion:** Sie kaufen Ware in USD oder RMB, verkaufen an Kunden in EUR und GBP und zahlen 3PL-Lager in lokaler Währung. Sie benötigen automatische zeitpunktgenaue Wechselkurs-Normalisierung ohne manuelle Währungsmathematik.
+4. **Finanzkontrolle für Anfänger ohne Buchhaltungskenntnisse:** Sie sind Gründer oder Betreiber, kein CPA oder Excel-Programmierer. Sie benötigen eine vorkonfektionierte Arbeitsmappe, in der alle Abgrenzungs-Matching-Regeln, Steuerabzüge und Dashboard-Diagramme automatisch aktualisiert werden, sobald Sie Ihre rohen CSV-Exporte einfügen.
+
+---
+
+## Schnellstart-Workflow: E-Commerce-Gewinnanalyse per Copy-&-Paste in 1 Minute (keine Formelbearbeitung)
+
+Hinter den Kulissen erfordern abgrenzungsbasiertes Bestell-Matching, Multi-Währungs-FX-Konversion und hierarchische Frachtverteilung komplexe Buchhaltungsmathematik. **Um dieses System zu betreiben, benötigen Sie jedoch keinerlei Buchhaltungskenntnisse oder Excel-Formel-Fähigkeiten.**
+
+Alle Bestell-ID-Matching-Regeln, dynamischen Nachschlag-Arrays und Waterfall-Gewinnformeln sind in der Excel-Vorlage vorgebaut und gesperrt. **Sie müssen nicht einmal die Zellecke doppelklicken, um Formeln nach unten zu ziehen oder zu kopieren.** Laden Sie einfach die Datei lokal herunter, kopieren und fügen Sie Ihre rohen Shop-Daten ein, und sehen Sie Ihre vollständige Finanzanalyse mit einem Klick.
+
+### Schritt 1: Baseline-Shop-Parameter einrichten (einmalige 5-Minuten-Konfiguration)
+Öffnen Sie das **Parameter-Dashboard** und geben Sie Ihre grundlegenden Shop-Einstellungen ein: Basis-Berichtswährung, Standard-MwSt./Verkaufssteuersätze pro Land, Abstimmungstoleranz-Schwellenwerte, Zahlungs-Gateway-Gebührenprozentsätze und historische Lieferanten-COGS-/FX-Tabellen.
+* **Aktion für Anfänger:** Einmal konfigurieren; nur aktualisieren, wenn sich Lieferantenpreise ändern oder Sie einen neuen Vertriebskanal hinzufügen.
+
+### Schritt 2: Rohe CSV-Exporte kopieren & einfügen (Shopify-, Amazon-, 3PL- & Auszahlungsprotokolle)
+Exportieren Sie Ihre Standard-CSV-Berichte (Bestellungen, Abwicklungsauszahlungen, 3PL-Versandrechnungen, Rückerstattungen und Werbeausgaben) aus Shopify, Amazon, bol.com oder Stripe. Kopieren Sie die rohen Datenzeilen und fügen Sie sie direkt in die vorgesehenen **Eingabemodule** ein.
+* **Aktion für Anfänger:** Reine Copy-&-Paste-Ausführung. **Kein manuelles Formelziehen, keine Zellformatierung und kein VLOOKUP-Debugging erforderlich.**
+
+### Schritt 3: Sofortiges Gewinn-Feedback & Abstimmungswarnungen in 1 Minute erhalten
+Wechseln Sie zur **Berechnungs-Engine** oder zum **Executive-Gewinn-Dashboard**. Innerhalb von 1 Minute verarbeitet die Vorlage Tausende Zeilen in glasklare Geschäftsentscheidungen:
+* Exakter Nettogewinn und Marge pro Bestellung und SKU.
+* Sofortige Warnhinweise für unbezahlte Marktplatz-Bestellungen oder überhöht abgerechnete 3PL-Versandrechnungen.
+* Kanal-für-Kanal-Profitabilitätsrankings, damit Sie verlierende Produkte streichen und margenstarke Gewinner in der Hauptsaison skalieren können.
+
+### Schritt 4: Lokal speichern & für laufenden Monatsabschluss wiederholen
+Testen Sie jetzt, wie die Bestell-Matching-Engine funktioniert, mit der [kostenlosen browserbasierten Gewinnmargenrechner-Demo](https://hyvoid.github.io/ecommerce-profit-calculator-excel/). Sobald Sie den Workflow mit Beispielbestellungen verifiziert haben, wechseln Sie zur permanenten Offline-Excel-Arbeitsmappe für den laufenden Geschäftsbetrieb.
+
+> 🚀 **Werden Sie noch heute zum 1-Minuten-E-Commerce-Finanzanalysten:**  
+> Fliegen Sie nicht länger blind auf den Bruttoumsatz und verschwenden Sie keine Wochenenden mehr mit kaputten Tabellen. [**Laden Sie das automatisierte E-Commerce-Gewinn- & Abstimmungs-Excel-Toolkit (.xlsx) herunter**](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence), fügen Sie Ihre Shop-CSV-Daten lokal ein und identifizieren Sie Ihre gewinnbringendsten Entscheidungen in unter 60 Sekunden.
+
+---
+
+## Die Geschäftslogik & Methodik: Beseitigung kostspieliger blinder Flecken im E-Commerce für Anfänger
+
+Die meisten Online-Verkäufer fallen der **„Wachstumsillusion"** zum Opfer: Der Umsatz sieht auf einer Shopify- oder Amazon-Seller-Central-App beeindruckend aus, aber das netto Cash am Ende blutet durch unsichtbare betriebliche Reibung aus. Der Grund: Standard-Shop-Berichte beruhen auf vereinfachten Cash-Annäherungen statt auf **Accrual-artiger Bestell-Unit-Ökonomie**.
+
+Diese Vorlage ersetzt Schätzungen durch eine deterministische Finanzarchitektur—und gibt Anfängern exakt dieselbe Gewinnsicht, die institutionelle E-Commerce-CFOs haben, ganz ohne manuelle Berechnung.
+
+### Vier versteckte blinde Flecken bei der Gewinnberechnung, die dieses Toolkit sofort aufdeckt
+
+1. **Blinder Fleck #1: Die Cash-Basis-Zeitfalle (verzerrte Monatsmargen)**
+   * **Die objektive Realität:** Ein Kunde kauft am 28. November (Black Friday) einen Artikel für 100 $, aber die Stripe-Auszahlung geht im Dezember ein, die 3PL-Versandrechnung kommt Mitte Dezember, und der Kunde erstattet den Artikel im Januar. In einfachen Monatstabellen sieht November wild profitabel aus, während Januar wie eine Katastrophe aussieht.
+   * **Wie die automatische Logik funktioniert (deterministisches Bestell-ID-Matching):** Jedes Finanzereignis—egal wann das Cash eingeht oder die Rückerstattung passiert—wird automatisch an die *ursprüngliche Bestell-ID* zurückverankert.
+   * **Direkter finanzieller Nutzen:** Sie sehen die wahre Nettoprofitabilität Ihrer Black-Friday-Kampagne im November ohne periodenverschiebende Verzerrungen und verhindern, dass Sie Werbekampagnen skalieren, die nach späten Retouren tatsächlich Geld verloren haben.
+2. **Blinder Fleck #2: Versteckte Gebühren- & Steuerblutung (überschätzter Break-Even-ROAS)**
+   * **Die objektive Realität:** Viele Anfänger berechnen die Marge als `Verkaufspreis (100 $) - Produktkosten (30 $) = 70 $ Bruttogewinn` und nehmen an, bis zu 65 $ für Werbung zur Kundenakquise ausgeben zu können. Sie vergessen, dass zuerst 20 % MwSt. (16,67 $), 2,9 % + 0,30 $ Zahlungs-Gateway-Gebühren (3,20 $), 15 % Marktplatz-Referral-Gebühren (15,00 $) und grenzüberschreitende FX-Spreads abgezogen werden.
+   * **Wie die automatische Logik funktioniert (Waterfall-Kostenzurechnung):** Der Umsatz wird automatisch Schritt für Schritt abgetragen: *Bruttoumsatz → minus MwSt./Verkaufssteuer → minus Zahlungs-Gateway-Gebühren → minus Marktplatz-Provisionen → minus COGS zum exakten Datum → minus tatsächliche 3PL-Fracht = **wahre Nettomarge**.*
+   * **Direkter finanzieller Nutzen:** Im obigen Beispiel bleiben vor Werbung nur ~25 $ statt 70 $. Diese exakte Zahl zu kennen, verhindert selbstmörderische Werbebudget-Ziele, die Ihr Bankkonto leeren.
+3. **Blinder Fleck #3: Die Held-Produkt-Versandsubventionsfalle (falsch zugewiesene Bundle- & Frachtkosten)**
+   * **Die objektive Realität:** Kauft ein Kunde ein leichtes, margenstarkes Accessoire zusammen mit einem schweren, margenschwachen Artikel (oder erhält ein „Gratisgeschenk"-Bundle), teilen Standard-Pauschalversand-Tabellen die Versandkosten gleichmäßig auf—oder ignorieren die Kosten des Gratisgeschenks vollständig.
+   * **Wie die automatische Logik funktioniert (hierarchische Fracht- & Bundle-Verteilung):** Die Engine priorisiert zuerst exakte Kostenzuordnung aus tatsächlichen 3PL-Logistikrechnungen und greift auf validierte Gewicht-/Volumenregeln zurück, wenn die Spediteursabrechnung aussteht, während Bundle-Komponenten-COGS der Elternbestellung zugeordnet werden.
+   * **Direkter finanzieller Nutzen:** Margenstarke Held-Produkte subventionieren schwere, verlustreiche SKUs nicht mehr künstlich—Sie können schwere Artikel sofort umpreisen oder Gratisversand-Schwellenwerte anpassen.
+4. **Blinder Fleck #4: Rückwirkendes Überschreiben von Lieferantenpreisen (korrumpierte historische Berichte)**
+   * **Die objektive Realität:** Erhöht Ihre Fabrik im Juni die Kosten eines SKUs von 10 $ auf 12 $, berechnet die Änderung dieser Zelle in einem normalen Excel-Sheet versehentlich die Bestellungen von Januar bis Mai mit 12 $ neu—und zerstört Ihre historischen Buchhaltungsunterlagen.
+   * **Wie die automatische Logik funktioniert (zeitpunktgenaue Kosten- & FX-Sperre):** Jede Bestellung zieht automatisch den exakten Lieferanten-COGS, den Gateway-Gebührenplan und den Devisenkurs heran, der am konkreten Bestelldatum gültig war.
+   * **Direkter finanzieller Nutzen:** Ihre historischen Monatsabschluss-Finanzberichte bleiben zu 100 % gesperrt, prüffähig und für immer korrekt—selbst wenn Lieferantenpreise und Wechselkurse täglich schwanken.
+
+---
+
+## Funktionsvergleich: Einfache Cashflow-Tabellen vs. automatisiertes E-Commerce-Gewinn-Toolkit
+
+| Zentrale E-Commerce-Buchhaltungsoperation | Einfache manuelle Excel-Tabellen | Automatisiertes E-Commerce-Gewinn- & Abstimmungs-Toolkit |
 | :--- | :--- | :--- |
-| **Falsche Zuweisung pauschaler Versandkosten** | Margenstarke „Held"-Produkte subventionieren schwere, margenschwache SKUs, was irreführende Profitabilitätsrankings und schlechte Bestandsentscheidungen erzeugt. | Der Versand folgt einer **strukturierten Zuweisungshierarchie**, die tatsächliche Logistikrechnungen priorisiert, bevor auf validierte Volumen-/Gewichtsschätzmethoden zurückgegriffen wird. |
-| **Dynamische COGS (Cost of Goods Sold)** | Die Finanzen vergangener Monate brechen, weil alte Bestellungen dynamisch die heute aktualisierten Lieferantenpreise erben. | Jede Bestellung wird mit dem **exakten COGS, dem FX-Kurs und dem Gebührenplan** berechnet, die am konkreten Transaktionsdatum gültig waren. |
-| **Auszahlungsdiskrepanzen & fehlende Gelder** | Finanzteams verbringen Stunden damit, Abweichungen manuell zwischen Shopify, Amazon, Stripe und Bankauszügen zu untersuchen. | Bestellungen, Plattformauszahlungen, 3PL-Rechnungen und Abstimmungsergebnisse sind untrennbar über ein **prüffähiges Finanzmodell** verbunden. |
-| **Margin-Tracking für Bundles & Gratisgeschenke** | Gratisgeschenke, Werbeaccessoires und gebündelte Komponenten verbergen ihre wahren Beschaffungskosten vollständig. | Fortgeschrittene **Bundle-Regeln** verteilen die Beschaffungskosten vor der endgültigen Profitabilitätsberechnung exakt zurück auf die vollständige Elternbestellung. |
-| **Grenzüberschreitendes Multi-Währungs-Chaos** | Umsatz, Logistik und Beschaffung werden über unterschiedliche Daten hinweg mit inkonsistenten, schwankenden Wechselkursen verglichen. | Jede Finanzkomponente wird über **historische zeitpunktgenaue Wechselkurse** in Ihre einzige Basis-Berichtswährung normalisiert. |
-| **Rückerstattungen verzerren den ROI der laufenden Periode** | Rückerstattungen reduzieren den heutigen Gewinn künstlich, statt die Kennzahlen der ursprünglichen Verkaufsperiode zu korrigieren. | Rückerstattungen werden strikt **der ursprünglichen Bestell-ID zugeordnet**, wodurch eine hochgenaue historische Profitabilität und Marketing-Trendanalyse erhalten bleibt. |
+| **Bestellung-zu-Auszahlung-Bankabstimmung** | Stunden manueller Kontrolle von Shopify-/Amazon-CSV-Exporten gegen Bankauszüge; fehlende Gelder bleiben unbemerkt. | Verknüpft Kunden-Bestell-IDs, Plattform-Abwicklungschargen, 3PL-Rechnungen und Bankeinzahlungen automatisch in einer Prüfspur. |
+| **Multi-SKU- & Bundle-Versandverteilung** | Pauschale Versandkostendurchschnitte verzerren SKU-Margen; schwere Produkte bluten heimlich Cash bei Gratisversand-Aktionen. | Nutzt eine strukturierte Verteilungshierarchie: ordnet zuerst tatsächliche 3PL-Spediteursrechnungen zu, wendet dann Gewicht-/Volumenregeln an. |
+| **Lieferanten-COGS- & FX-Kursaktualisierungen** | Das Aktualisieren einer SKU-Kosten- oder Wechselkurszelle überschreibt Berechnungen vergangener Monate und zerstört die historische P&L-Genauigkeit. | Eine zeitpunktgenaue Nachschlag-Engine sperrt exakten COGS zum Transaktionsdatum, Gebührenstufen und historische FX-Kurse pro Bestellung. |
+| **Rückerstattungen, Retouren & späte Anpassungen** | Rückerstattungen werden vom Umsatz des aktuellen Monats abgezogen und ruinieren die aktuelle ROAS- und Gewinnverfolgung nach Hauptsaisonverkäufen. | Ordnet Rückerstattungen, Chargebacks und Gutschriften strikt der ursprünglichen Bestell-ID und dem historischen Verkaufsdatum zu. |
+| **Aktionsbundles & Gratisgeschenke** | Gratisgeschenke und Mehrfachpack-Bundles verbergen Komponenten-Beschaffungskosten und blähen den wahrgenommenen Aktions-ROI auf. | Eingebaute Bundle-Mapping-Regeln ziehen automatisch alle zugrunde liegenden Komponenten-COGS vom Umsatz der Elternbestellung ab. |
+| **Tages- & Monatsabschluss-Aufwand für Anfänger** | Anfällig für `#REF!`- und `VLOOKUP`-Fehler; erfordert manuelles Formelziehen und fortgeschrittene Buchhaltungsfähigkeiten. | Vorkonfektioniert mit automatisch expandierenden Tabellen; rohe CSV-Exporte einfügen und aktualisierte Gewinn-Dashboards in 1 Minute ansehen. |
 
 ---
 
-## Wer braucht diesen E-Commerce-Gewinnmargen-Tracker? (Anwendungsfälle & Rollen)
+## Über Theseus Workshop: Plug-and-Play-Business-Analytics & Finanzentscheidungstools
 
-Dieses Toolkit ist für datengetriebene Fachleute konzipiert, die Profitabilitätsanalysen auf Enterprise-Niveau benötigen—ohne die sechstelligen Kosten oder die 6-monatige Implementierungszeit einer großen ERP- oder BI-Plattform (Business Intelligence).
+Ich baue leichtgewichtige, leistungsstarke Microsoft-Excel-Entscheidungsunterstützungstools für betriebliche und finanzielle Engpässe, die unbeherrschbar werden, sobald zu viele bewegliche Teile—Marktplätze, Währungen, 3PL-Logistik und Zahlungs-Gateways—gleichzeitig interagieren.
 
-*   **E-Commerce-Gründer & Markeninhaber:** Benötigen ein *Omnichannel-Gewinn-Dashboard*, um mehrere Vertriebskanäle aggressiv zu skalieren, ohne auf Basis falscher Bruttomargenannahmen aus Versehen zu viel für Werbung auszugeben.
-*   **Teilzeit-CFOs & Finanzcontroller:** Benötigen eine verlässliche *finanzielle Abstimmungs-Excel-Vorlage*, um im Monatsabschluss die chaotische Lücke zwischen unordentlichen Shopify-/Amazon-Rohexporten und der formellen Buchhaltungssoftware (Xero/QuickBooks) zu überbrücken.
-*   **Marktplatz-Betriebsmanager:** Suchen einen präzisen *Profitabilitätsrechner auf Bestellniveau*, um die wahre Rendite von Aktionsbundles, Flash-Sales und grenzüberschreitenden 3PL-Versandstrategien zu bewerten.
-*   **Performance-Marketing-Agenturen:** Brauchen ein klares *ROAS- und Gewinn-Zuordnungstool*, um ihren Kunden den tatsächlichen Nettogewinn aus Werbeausgaben nachzuweisen—unter Berücksichtigung von Retouren und COGS.
-*   **Fortgeschrittene Excel-Profis:** Die einen transparenten, prüffähigen Analyserahmen mit sichtbarer Logik benötigen, statt eines weiteren SaaS-„Blackbox"-Dashboards.
+Statt zu fragen, wie man ein weiteres teures monatliches SaaS-Abo kauft, beginnt jedes Tool bei **Theseus Workshop** mit einer einzigen Frage:
 
-*(Hinweis: Dieses Toolkit ist eine analytische Entscheidungsunterstützungs-Engine. Es ist **nicht** dafür gedacht, offizielle Buchhaltungssoftware mit doppelter Buchführung, Lagerverwaltungssysteme (WMS) oder Plattformen zur gesetzlichen Steuerkonformität zu ersetzen.)*
+> **„Welche konkreten Finanzdaten müssen an einem einzigen, prüffähigen Ort vorhanden sein, damit die nächste strategische Geschäftsentscheidung in 1 Minute mit absoluter Sicherheit getroffen werden kann?"**
 
----
+Statt Ihre bestehenden Shop- oder Buchhaltungssysteme zu ersetzen, nehmen unsere Vorlagen die bereits vorhandenen verstreuten CSV-Daten auf und verwandeln sie in einen wiederholbaren Copy-&-Paste-Analyserahmen für Preisoptimierung, Bestandseinkauf und definitive Profitabilitätskontrolle.
 
-## Über den Ersteller
-
-Ich entwickle leichtgewichtige, leistungsstarke Excel-basierte Entscheidungsunterstützungstools für betriebliche Engpässe, die unbeherrschbar werden, sobald zu viele bewegliche Teile (Plattformen, Währungen, Logistik) gleichzeitig interagieren.
-
-Statt zu fragen, wie man ein weiteres SaaS-Abo kauft, um jede Aufgabe zu automatisieren, beginne ich meist mit einer anderen Frage:
-
-> **„Welche konkreten Finanzdaten müssen an einem einzigen, prüffähigen Ort vorhanden sein, damit die nächste strategische Geschäftsentscheidung mit absoluter Sicherheit getroffen werden kann?"**
-
-Dieses Toolkit verkörpert diese Philosophie. Statt Ihre bestehenden Geschäftssysteme zu ersetzen, nimmt es die bereits vorhandenen verstreuten Finanzdaten auf und orchestriert sie in einen wiederholbaren Analyserahmen für Preisoptimierung, Bestandseinkauf, Betriebsüberprüfungen und endgültige Profitabilitätsentscheidungen.
+* 🛒 **Alle Business- & Finanzvorlagen entdecken:** [**Besuchen Sie den offiziellen Theseus-Workshop-Store für Plug-and-Play-Excel-Dashboards & Entscheidungsunterstützungstools**](https://www.theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=about-section-main-store)
+* 📥 **Dieses E-Commerce-Gewinnsystem holen:** [**Laden Sie das E-Commerce-Gewinn- & Abstimmungs-Excel-Toolkit (.xlsx) auf Theseus Workshop herunter**](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
+* 🖥️ **Zuerst im Browser testen:** [**Öffnen Sie die kostenlose interaktive webbasierte E-Commerce-Gewinnmargenrechner-Demo**](https://hyvoid.github.io/ecommerce-profit-calculator-excel/)
 
 ---
 
@@ -499,34 +543,37 @@ Ausgaben umfassen den Abstimmungsstatus, Geldbetragsdifferenzen und konfigurierb
 
 ---
 
-## Die Geschäftslogik & Methodik
-
-Die meisten E-Commerce-Unternehmen verfallen irgendwann in die **„Wachstumsillusion"**—der Umsatz sieht auf Shopify- oder Amazon-Seller-Central-Dashboards gesund aus, aber der Nettogewinn am Ende blutet durch unsichtbare betriebliche Reibung aus. Das passiert, weil die Standardberichterstattung auf Näherungen nach Bargeld-Basis statt auf exakter **Unit-Ökonomie auf Bestellniveau** beruht.
-
-Dieses E-Commerce-Gewinn- & Abstimmungs-Toolkit ersetzt fragmentierte Dashboard-Kennzahlen durch einen deterministischen Finanzmodellierungsrahmen. Hier ist die Methodik, mit der komplexe Omnichannel-Buchhaltungsprobleme gelöst werden:
-
-### 1. Deterministisches Matching auf Bestellniveau (Lösung der Timing-Abweichung)
-*   **Das Geschäftsproblem:** Rückerstattungen, 3PL-Logistikrechnungen und Marktplatz-Auszahlungen (von Stripe, PayPal oder Amazon) werden oft erst Wochen oder Monate nach dem ursprünglichen Verkauf abgewickelt. Der Einsatz standardmäßiger Cashflow-Tabellen verzerrt Ihre monatliche Margenanalyse.
-*   **Unsere Methodik:** Statt periodenbasierter Cashflow-Verfolgung verankert dieses Toolkit jedes Finanzereignis strikt an der *ursprünglichen Bestell-ID*. Dieses **accrual-artige finanzielle Matching** stellt sicher, dass die verzögerten Rückerstattungen oder rückwirkenden Lieferantenrabatte des Vormonats die historische Leistung exakt korrigieren, statt die Nettogewinnkennzahlen des laufenden Monats künstlich zu zerstören.
-
-### 2. Waterfall-Kostenzurechnung (Versteckte E-Commerce-Gebühren aufdecken)
-*   **Das Geschäftsproblem:** Die Bruttomargen im E-Commerce werden häufig falsch berechnet, weil Zahlungs-Gateway-Gebühren, MwSt./Verkaufssteuer-Abzüge und Cross-Currency-Konversionsspreads in Standard-CMS-Berichten entweder vermischt oder vollständig ignoriert werden.
-*   **Unsere Methodik:** Wir implementieren ein strenges **Waterfall-Margin-Zuordnungsmodell**. Vom Bruttoumsatz wird systematisch Schritt für Schritt abgetragen, um die tatsächlich verbleibende Barmittel offenzulegen: 
-    *Bruttoumsatz → minus MwSt./Steuern → minus Zahlungsabwicklungsgebühren → minus Marktplatz-Provisionen → minus COGS zum exakten Datum (Cost of Goods Sold) → minus tatsächliche Fracht = **Echte Nettomarge**.*
-
-### 3. Hierarchische Frachtverteilung (Korrektur der Multi-SKU- & Bundle-Kosten)
-*   **Das Geschäftsproblem:** Pauschale Versandkostenschätzungen führen dazu, dass margenstarke „Held"-Produkte schwere, margenschwache SKUs subventionieren. Dieser blinde Fleck führt zu verheerenden Bestandseinkäufen und falsch ausgerichteten ROAS-Zielen (Return on Ad Spend).
-*   **Unsere Methodik:** Das Toolkit nutzt eine **hierarchische 3PL-Frachtverteilung**. Die Engine priorisiert zuerst die exakte Kostenzuordnung aus tatsächlichen Logistikrechnungen. Wenn die offizielle Spediteursabrechnung aussteht, greift die Logik auf eine validierte algorithmische Schätzung zurück (basierend auf Volumengewicht oder benutzerdefinierter Geschäftslogik), sodass Aktionsbundles und Multi-SKU-Bestellungen nie verzerrte Versandkosten zugewiesen bekommen.
-
----
-
 
 ## Weitere Tools dieser Serie
 
-- **Toolkit für Fertigungsarbeitskosten & Kapazitätsplanung** — Analysieren Sie Personaleinsatz, Produktionskapazität und Arbeitkosteneffizienz.
-- **Toolkit für bedarfsadaptive Bestandsplanung** — Planen Sie die Nachbestellung mit Vorlaufzeit, Nachfrageschwankung und Einkaufsszenarien.
-- **Toolkit für Mietimmobilien-Betrieb** — Überwachen Sie Belegung, Leerstand, Wartung und Mietleistung aus einer einzigen Arbeitsmappe.
-- **Toolkit für Projektportfolio-Planung** — Verfolgen Sie Budgets, Zeitpläne, Prioritäten und Lieferfortschritt über mehrere Initiativen hinweg.
+- **[rolling-cashflow-forecast](https://github.com/HyVoid/rolling-cashflow-forecast)** — Warum ist Cash immer knapp? — Prognostizieren Sie zukünftige Liquidität unter veränderlichen betrieblichen und finanziellen Annahmen.
+- **[Multi-Currency-Trade-Financial-Analyzer](https://github.com/HyVoid/Multi-Currency-Trade-Financial-Analyzer)** — Welche Handelsströme sind nach Währungseffekten tatsächlich profitabel? — Messen Sie die Multi-Währungs-Handelsprofitabilität über grenzüberschreitende Operationen hinweg.
+- **[RTL_Loan_Sizer_Pricer](https://github.com/HyVoid/RTL_Loan_Sizer_Pricer)** — Welche Finanzierungsstruktur ist unter verschiedenen Kreditnehmer- und Sicherheitsszenarien tragfähig? — Vergleichen Sie Kreditgewährungsszenarien mit risikoadjustierten Finanzierungsannahmen.
+- **[Personal-Business-Dual-Track-Budget-Manager](https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager)** — Wo wird privates und geschäftliches Cash vermischt oder fehlallokiert? — Trennen Sie private und geschäftliche Cashflows in unabhängig verfolgte Budget-Tracks.
+- **[Multifamily-Value-Add-Acquisition-Model](https://github.com/HyVoid/Multifamily-Value-Add-Acquisition-Model)** — Schafft diese Immobilienakquisition nach Sanierungs- und Betriebsannahmen noch Eigenkapitalwert? — Bewerten Sie Multifamily-Akquisitionsrenditen unter Sanierungsfinanzierungs- und Betriebsszenarien.
+- **[Real-Estate-Valuation-all-in-one-calculator](https://github.com/HyVoid/Real-Estate-Valuation-all-in-one-calculator)** — Wie viel ist eine Immobilie nach verschiedenen Bewertungsmethoden wert? — Berechnen Sie Immobilienwerte über mehrere Bewertungsmethoden mit Steuer- und Investitionsausgabenmodellierung.
+- **[multi-entity-expense-allocation](https://github.com/HyVoid/multi-entity-expense-allocation)** — Werden Gemeinkosten gerecht auf Gesellschaften verteilt, oder tragen manche Assets eine Überlastung, während anderen ihre echte Kostenexposition entgeht? — Verteilen Sie Lieferantenrechnungen auf mehrere Rechtsträger und Betriebs-Assets mit konfigurierbaren Verteilungsmethoden.
+- **[investment-pool-nav-excel-template](https://github.com/HyVoid/investment-pool-nav-excel-template)** — Was wird jedem Teilnehmer tatsächlich geschuldet, basierend auf seinem Einstiegszeitpunkt und dem aktuellen Poolwert? — Verfolgen Sie Investmentpool-Anteile kontinuierlich mit NAV-basierter Unit-Buchhaltung.
+- **[shopify-cash-flow-forecast-excel-toolkit](https://github.com/HyVoid/shopify-cash-flow-forecast-excel-toolkit)** — Welche betrieblichen Verpflichtungen erzeugen in den nächsten zwölf Wochen ein Cash-Problem? — Verbinden Sie Shopify-Verkäufe, Banktransaktionen, Werbeausgaben und Bestandseinkäufe zu einem einheitlichen Cashflow-Entscheidungsrahmen.
+- **[Revenue-Management-Decision-Engine](https://github.com/HyVoid/Revenue-Management-Decision-Engine)** — Hat sich genug Aussagekräftiges geändert, um eine Preisanpassung zu rechtfertigen? — Steuern Sie Preisempfehlungen durch konfigurierbare Leitplanken, die unnötige Umsatzvolatilität verhindern.
+- **[amazon-wbr-sqp-analytics-template](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template)** — Was hat sich in dieser Periode im Geschäft tatsächlich geändert und welche Produkte oder Keywords haben die Änderung angetrieben? — Verwandeln Sie Amazon-Seller-Central-SQP- und Sellerboard-Exporte in standardisierte Management-Business-Reviews.
+- **[food-manufacturing-cost-calculator-excel](https://github.com/HyVoid/food-manufacturing-cost-calculator-excel)** — Welche Produkte sind nach Verteilung aller Herstellungskosten tatsächlich profitabel und welche zerstören die Marge? — Verteilen Sie Fabriklohn, Nebenkosten und Materialkosten auf jede SKU für echte Unit-Manufacturing-Ökonomie.
+- **[construction-job-costing-excel-template](https://github.com/HyVoid/construction-job-costing-excel-template)** — Welche Bauunternehmer-Projekte und Kunden sind nach allen Projektkosten tatsächlich profitabel? — Verbinden Sie Angebotskalkulation, Projektausführung und tatsächliche Kostenverfolgung zu einem einheitlichen Profitabilitätsrahmen für Bauunternehmer.
+- **[Flora-Pastry-Coffee-Shop-Operating-Control-System](https://github.com/HyVoid/Flora-Pastry-Coffee-Shop-Operating-Control-System)** — Ist der Laden nach allen Zutaten-, Personal- und Betriebskosten wirklich profitabel? — Verbinden Sie Rezeptur-Kalkulation, Verkäufe, Bestandsverbrauch und Betriebsausgaben zu einem einheitlichen Profitabilitäts- und Cashflow-rahmen.
+- **[freight-forwarder-job-costing-excel](https://github.com/HyVoid/freight-forwarder-job-costing-excel)** — Welche Frachtbuchungen sind nach allen Kosten, Gebühren und Währungsumrechnungen tatsächlich profitabel? — Messen Sie die Frachtprofitabilität auf Buchungsebene durch Abstimmung von Umsatz, COGS, Bankgebühren und Containerkosten über gemischtwährige Transaktionen hinweg.
+- **[cross-entity-logistics-console](https://github.com/HyVoid/cross-entity-logistics-console)** — Welche Container und Kunden sind über Zoll- und Flottenoperationen hinweg tatsächlich profitabel? — Konsolidieren Sie Zollabwicklung und Flottenausführungsdaten in einer einzigen Container-Level-Profitabilitätssicht.
+- **[family-loan-tracker-excel](https://github.com/HyVoid/family-loan-tracker-excel)** — Was ist nach Jahren von Überweisungen und aufgelaufenen Zinsen heute tatsächlich geschuldet? — Stimmen Sie langfristige Geldtransfers und Zinsansammlungen zu einem aktuellen Restsaldo ab.
+- **[3-statement-financial-model-excel](https://github.com/HyVoid/3-statement-financial-model-excel)** — Wie werden unsere Finanzberichte unter verschiedenen Betriebs- und Finanzierungsszenarien aussehen? — Prognostizieren Sie integrierte Finanzberichte, indem Sie Umsatz, Aufwendungen, Working Capital und Schulden in einem einheitlichen Modell verknüpfen.
+- **[assisted-living-cost-allocation-excel](https://github.com/HyVoid/assisted-living-cost-allocation-excel)** — Wie viel der gemeldeten Marge jedes Gebäudes wird tatsächlich von diesem Gebäude erwirtschaftet und wie viel ergibt sich aus der Art der Verteilung der Zentralkosten? — Verteilen Sie Gemeinkosten auf Betriebseinheiten, während Quelltransaktionen erhalten bleiben und Einheitsergebnisse auf Gesamtsummen abgestimmt werden.
+- **[real-estate-development-feasibility-excel](https://github.com/HyVoid/real-estate-development-feasibility-excel)** — Bei welchem maximalen Grundstücksankaufspreis wird dieses Entwicklungsprojekt zur bankfähigen Investition? — Bewerten Sie Wohnbau-Entwicklungschancen durch Sichtung von Grundstücksvergleichswerten, Schätzung der Baukosten und Berechnung von Profit-on-Cost-Schwellenwerten.
+- **[uk-residential-costing-software](https://github.com/HyVoid/uk-residential-costing-software)** — Erreicht dieses Bauprojekt tatsächlich seine Zielmarge, sobald Baustellenlogistik, Schwundfaktoren und Gewerkeratenschwankungen berücksichtigt sind? — Trennen Sie physische Baumengen von volatilen Gewerkeraten und Baustellen-Vorleistungen, um Handelsaufschläge über Ausschreibungs-Budgets und Kundenangebote zu kaskadieren.
+- **[b2b-pricing-landed-cost-excel-model](https://github.com/HyVoid/b2b-pricing-landed-cost-excel-model)** — Welche Großhandelspreise und Kundensegmente erhalten die Marge tatsächlich, sobald Fracht, Zölle, Zahlungsbedingungen und FX voll kalkuliert sind? — Berechnen Sie Landed Costs auf SKU-Ebene, Cost-to-Serve und Pocket-Margin-Preiswasserfälle zur Simulation grenzüberschreitender Großhandelsprofitabilität.
+- **[custom-label-pricing-calculator](https://github.com/HyVoid/custom-label-pricing-calculator)** — Was sollten wir für eine Etiketten-Sonderanfertigung je Mengenstaffel berechnen, um wettbewerbsfähig und profitabel zu bleiben? — Berechnen Sie parametrische Etikettenpreise durch Modellierung von Substrat-Quadratzoll-Kosten, Rüstkosten und Mengenstaffel-Rabattstufen gegen Wettbewerber-Benchmarks.
+- **[landed-cost-calculator-retail-deduction-excel](https://github.com/HyVoid/landed-cost-calculator-retail-deduction-excel)** — Wie hoch ist die wahre Nettomarge pro SKU, sobald tatsächliche Landed Costs und Händlerabzüge berücksichtigt sind? — Stimmen Sie auf Bestellung geschätzte Landed Costs gegen tatsächliche Fracht-, Zoll-, FX- und Drayage-Kosten ab und prüfen Sie Händlerüberweisungsabzüge, um die Nettomarge auf SKU-Ebene offenzulegen.
+- **[saas-finance-mrr-burn-rate-excel](https://github.com/HyVoid/saas-finance-mrr-burn-rate-excel)** — Können wir die Einstellungs-, Marketing- und Lieferantenverpflichtungen dieser Woche tätigen, ohne vor dem Abschluss das Cash zu erschöpfen? — Verfolgen Sie wöchentliches Cash-Burn-Tempo, MRR/ARR-Waterfall-Abweichungen, Retention-Kennzahlen und Lohnkosten gegen Budget vor dem Monatsabschluss.
+- **[startup-financial-model-excel](https://github.com/HyVoid/startup-financial-model-excel)** — Wird unser Wachstumsplan das Cash aufbrauchen, bevor die Kohortenmonetarisierung aufholt? — Prognostizieren Sie mehrjährigen Cash-Burn, Runway, Unit-Ökonomie und Fundraising-Verwässerung aus Bottom-Up-Kohorten- und Headcount-Annahmen.
+- **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — Ist jeder Shopify-Storefront tatsächlich profitabel, sobald wahre SKU-Level-Kosten, Gemeinkosten und Bankgebühren abgestimmt sind? — Stimmen Sie Multi-Store-Shopify-Verkaufsexporte gegen SKU-Level-COGS, zugewiesene Multi-Währungs-OPEX und Bankauszüge ab, um eine vertrauenswürdige monatliche GuV zu erzeugen.
+- **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — Welche Reisebuchungen erzeugen nach Lieferantenkosten und B2B-Einzügen tatsächlich Nettogewinn und positiven Cashflow? — Berechnen Sie Reise-Projektkosten pro Buchung, Bruttomargen, Forderungen/Verbindlichkeiten-Abwicklung und operativen Cashflow über mehrere Währungen hinweg.
 
 Weitere betriebliche Entscheidungsunterstützungstools finden Sie auf unserer [Webseite](https://www.theseusworkshop.com/) und im GitHub-Profil.
 

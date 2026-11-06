@@ -1,109 +1,153 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Boîte à outils Excel de rentabilité et de réconciliation e-commerce : calculateur de marge omnicanal
+# Calculateur de marge bénéficiaire e-commerce & modèle Excel de réconciliation financière : Suivi SKU au niveau des commandes & application Web gratuite
 <img width="1379" height="790" alt="image" src="https://github.com/user-attachments/assets/4e150c8b-7711-4d92-83fb-9bafae27f171" />
 
 
+<p align="left">
+  <strong>Tableur de bénéfice net omnicanal prêt à l'emploi, outil de réconciliation des paiements vers la banque et répartiteur de coûts d'expédition 3PL pour les vendeurs Shopify, Amazon et transfrontaliers — sans édition de formules ni connaissances comptables requises.</strong>
+</p>
+
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
-![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange)
+![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Microsoft%20Excel-success)
+![Category](https://img.shields.io/badge/Template-E--commerce%20Profit%20%26%20Payout%20Reconciliation-orange)
+![Skill Level](https://img.shields.io/badge/User%20Level-Beginner%20Friendly%20%7C%201--Minute%20Copy%20%26%20Paste-brightgreen)
 
-<p><strong>La boîte à outils Excel d'intelligence des profits et de réconciliation e-commerce</strong> est un tableur de modélisation financière de référence conçu pour analyser la véritable <strong>rentabilité au niveau des commandes</strong> et les <strong>marges par SKU</strong> sur plusieurs canaux de vente (Shopify, Amazon, bol.com), les devises transfrontalières, les modèles d'expédition et les systèmes de passerelle de paiement. Éliminez les écarts comptables avec ce <strong>modèle de réconciliation financière e-commerce</strong> prêt à l'emploi—exécutez-le directement dans votre navigateur ou Excel, sans installation SaaS, sans abonnements mensuels et sans saisie manuelle de formules.</p>
+**La boîte à outils Excel de rentabilité et de réconciliation e-commerce est un tableur (.xlsx) prêt à l'emploi plug-and-play de calculateur de marge bénéficiaire e-commerce et une application Web gratuite de réconciliation financière dans le navigateur, conçue pour les débutants des boutiques en ligne, les marchands Shopify, les vendeurs Amazon et les propriétaires de petites entreprises.** Construite comme une alternative sans code aux logiciels comptables SaaS coûteux, ce modèle financier automatisé calcule la véritable **économie unitaire au niveau des commandes** et les **marges nettes par SKU** sur plusieurs canaux de vente (Shopify, Amazon Seller Central, bol.com, WooCommerce), devises transfrontalières, factures d'expédition 3PL et passerelles de paiement (Stripe, PayPal, Adyen). Éliminez les écarts de paiements, les frais de fulfillment cachés, les erreurs de TVA/taxe sur les ventes et les erreurs de COGS (coût des marchandises vendues) grâce à un simple flux de travail copier-coller—sans écrire un seul `VLOOKUP`, `INDEX/MATCH` ou macro.
 
-**Aucune inscription. Aucune installation. Gratuit dans votre navigateur.**
+**Aucune installation de logiciel. Aucun abonnement SaaS mensuel. Analyse de rentabilité par copier-coller en 1 minute.**
 
-Essayez gratuitement la version navigateur. Si vous avez besoin de la version Excel permanente pour une clôture mensuelle sécurisée et locale, vous pouvez l'acheter avec une garantie de remboursement de 30 jours sans question.
+Testez instantanément le moteur de réconciliation au niveau des commandes dans votre navigateur avec l'application Web interactive gratuite, ou téléchargez le modèle de tableur Microsoft Excel permanent et hors ligne (avec garantie de remboursement de 30 jours sans questions) pour un suivi hebdomadaire répétable des bénéfices et une clôture financière mensuelle.
 
-> 🌐 **Démo interactive en direct** → [*Essayez le calculateur gratuit de marge bénéficiaire e-commerce (HTML dans le navigateur)*](https://hyvoid.github.io/ecommerce-profit-calculator-excel/)
+> 🌐 **Essayez le calculateur de profit en ligne gratuit (sandbox navigateur instantané)**  
+> [**Lancez la démo gratuite interactive du calculateur de marge bénéficiaire e-commerce et de réconciliation des commandes basé sur le Web**](https://hyvoid.github.io/ecommerce-profit-calculator-excel/)
 >
-> 📥 **Télécharger le modèle complet** → [*Téléchargez la boîte à outils Excel réutilisable de rentabilité et de réconciliation e-commerce*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
+> 📥 **Obtenez le système Excel hors ligne automatisé (base de données financière répétable)**  
+> [**Téléchargez le modèle Excel plug-and-play de rentabilité et de réconciliation des paiements e-commerce (.xlsx) avec formules auto-actualisantes**](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
 
 ---
 
-## Points de douleur financiers du e-commerce et solutions automatisées
+## Ce que cela vous aide à suivre : points de douleur financiers du e-commerce vs solutions automatisées de tableur
 
-Arrêtez de deviner vos marges brutes. Cette boîte à outils relie vos défis comptables omnicanal les plus complexes directement à des solutions financières automatisées.
+Arrêtez de deviner vos marges brutes à partir de tableaux de bord de boutique trompeurs. Ce **tableur comptable e-commerce automatisé** transforme vos données financières omnicanal les plus désordonnées directement en indicateurs de rentabilité auditables.
 
-| Point de douleur financier central du e-commerce | Comment cette boîte à outils d'analyse des profits le résout |
-| :--- | :--- |
-| **Coûts opérationnels cachés et marges par SKU inexactes** | Calcule le véritable **bénéfice net au niveau des commandes** après déduction des frais d'expédition 3PL réels, des frais de passerelle de paiement Stripe/PayPal, des commissions des places de marché, de la TVA, des remboursements et du COGS réel. |
-| **Données faussées par des coûts fournisseurs et des taux de change changeants** | Verrouille la **rentabilité historique** grâce à des taux de change au moment précis et des coûts d'approvisionnement spécifiques à la date. Les rapports de clôture des mois passés restent parfaitement exacts même lorsque votre fournisseur augmente ses prix aujourd'hui. |
-| **Devinettes sur l'allocation des coûts d'expédition pour les lots** | Remplace les estimations forfaitaires par la **réconciliation réelle des factures logistiques**, répartissant intelligemment les coûts de fret réels entre les expéditions multi-SKU selon le poids volumétrique ou une logique personnalisée. |
-| **Les paiements des places de marché ne correspondent pas aux dépôts bancaires** | Automatise la **réconciliation financière** entre les commandes clients individuelles, les paiements agrégés des places de marché, la facturation logistique et les relevés bancaires réels avant la clôture mensuelle. |
-| **Fuite de bénéfices due à des inefficacités opérationnelles invisibles** | Visualise les **tendances de marge** par plateforme de place de marché, pays de destination, devise, SKU ou stratégie de fulfillment 3PL via un tableau de bord unifié pour la direction. |
-
----
-
-## Comment calculer votre profit e-commerce (tutoriel de démarrage rapide)
-
-Obtenez une visibilité financière complète en quatre étapes guidées sans écrire une seule formule Excel.
-
-1. **Configurez vos paramètres financiers de base (configuration unique)**  
-   Ouvrez le **tableau de bord des paramètres** et définissez vos hypothèses opérationnelles : devise de reporting de base, taux de TVA par défaut, seuils de tolérance de réconciliation comptable, structures de frais des passerelles de paiement et tables historiques de taux de change. Cela crée une source unique de vérité pour l'ensemble de votre modèle financier e-commerce.
-
-2. **Importez les données de ventes et de logistique omnicanal (ingestion des données)**  
-   Exportez les rapports CSV bruts (commandes, règlements de paiements, factures logistiques 3PL, remboursements, dépenses publicitaires) directement depuis Shopify, Amazon Seller Central, bol.com ou votre logiciel comptable. Collez-les dans les **modules d'entrée** désignés sans reconstruire de formules ni nettoyer les données.
-
-3. **Lancez le moteur automatisé de rentabilité et de réconciliation**  
-   Basculez vers le **moteur de calcul** ou le **tableau de bord exécutif**. Observez comment le modèle associe automatiquement le COGS historique, alloue les frais d'expédition au niveau SKU, vérifie le statut de réconciliation et met à jour les KPI de direction (Gross Margin, Net Profit, ROAS) en temps réel.
-
-4. **Actualisez pour une clôture mensuelle continue**  
-   Répétez le processus d'importation de données chaque semaine ou chaque mois. Les anciennes données restent financièrement verrouillées et auditables, tandis que les nouvelles transactions sont instantanément traitées dans votre cadre standardisé.
-
-🚀 **Prêt à passer de l'estimation des marges à leur connaissance exacte ?**  
-*Vous avez fini de tester votre premier lot de commandes dans le navigateur ? [Téléchargez le modèle Excel e-commerce réutilisable complet](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence) pour automatiser durablement votre reporting financier hebdomadaire, enregistrer vos données localement et construire une boucle de réconciliation de clôture mensuelle reproductible.*
+| Module de suivi financier à haute fréquence | Point de douleur comptable courant du e-commerce | Solution automatisée de la boîte à outils Excel | KPI de rentabilité et de trésorerie exploitables |
+| :--- | :--- | :--- | :--- |
+| **Bénéfice net au niveau des commandes et économie unitaire** | Les tableaux de bord par défaut des boutiques affichent des ventes brutes élevées tandis que des frais cachés rendent silencieusement les commandes non rentables. | Déduit automatiquement la TVA/taxe sur les ventes, les frais de traitement Stripe/PayPal, les commissions des places de marché, le COGS exact et le fret 3PL réel par commande. | Bénéfice net réel par commande ($), marge nette (%), marge de contribution par SKU. |
+| **COGS historique et verrouillage multi-devises FX** | La mise à jour aujourd'hui des coûts produits fournisseurs ou des taux de change écrase accidentellement et ruine les rapports de bénéfices du mois dernier. | Verrouille la rentabilité historique à l'aide de coûts d'approvisionnement spécifiques à la date et de taux de change (FX) au moment précis. | COGS apparié à la date ($), impact du spread de conversion FX, précision de marge période sur période. |
+| **Factures d'expédition 3PL et allocation des coûts de lots** | L'utilisation d'estimations d'expédition forfaitaires fausse les marges des commandes multi-articles, des lots promotionnels et des SKU lourds. | Réconcilie la facturation réelle du transporteur 3PL et répartit les coûts de fret réels sur les commandes multi-SKU selon le poids ou des règles personnalisées. | Coût de fulfillment rendu réel par SKU, ventilation de la marge des lots, écart de fret non facturé. |
+| **Réconciliation des paiements de places de marché avec les dépôts bancaires** | Les règlements Shopify, Amazon ou Stripe ne correspondent jamais aux dépôts bancaires réels en raison des réserves, des remboursements et des décalages temporels. | Relie les ID de commande clients individuels aux lots de paiements agrégés de la plateforme, aux factures 3PL et aux dépôts des relevés bancaires. | Solde des paiements non réconcilié ($), alertes de dépôts manquants, suivi des réserves de règlement en attente. |
+| **Attribution des remboursements, retours et chargebacks** | Des taux de retour élevés en janvier font artificiellement s'effondrer les indicateurs de janvier au lieu de corriger les données de ventes de décembre. | Ancre chaque remboursement, frais de retour et avoir fournisseur strictement à l'ID de commande de la transaction d'origine et à la période de vente. | Marge nette ajustée après retours, taux de fuite des remboursements (%) par SKU, ROAS réel de campagne. |
+| **Performance omnicanale et transfrontalière** | Incapacité de voir quel pays, devise, place de marché ou entrepôt 3PL génère réellement du cash ou brûle du capital. | Consolide les exports CSV multi-boutiques et multi-pays en un seul tableau de bord de direction sans ajouter d'onglets de feuille fragiles. | Marge nette par canal de vente, charge fiscale et douanière par pays, classement des SKU rentables vs déficitaires. |
 
 ---
 
-## La logique métier et la méthodologie
+## Pour qui c'est : fonctions cibles et modèles e-commerce prêts à l'emploi
 
-Cette boîte à outils repose sur un changement fondamental : passer des « illusions de comptabilité de trésorerie » à l'**« économie unitaire par commande de type exercice »**.
+Cette boîte à outils est conçue pour les opérationnels et les équipes financières qui ont besoin d'une **analyse de rentabilité e-commerce immédiate et de niveau entreprise** à partir d'exports CSV standards—sans payer des milliers de dollars par an pour des outils BI boîte noire ou des implémentations ERP.
 
-Le problème commercial qu'elle résout est l'**illusion de croissance** : lorsque le chiffre d'affaires semble sain sur le tableau de bord Shopify, mais que le bénéfice net final se vide à cause d'une friction opérationnelle invisible (taux de retour élevés, surcharges cachées des passerelles de paiement, coûts de fret mal alloués).
+* 🛒 **Propriétaires de boutiques Shopify & D2C + tableur véritable calculateur de marge nette :** Arrêtez de scaler les publicités Facebook, TikTok ou Google sur la base de marges brutes gonflées. Connaissez votre bénéfice net exact par commande après expédition, frais de passerelle et retours afin de fixer des objectifs de ROAS d'équilibre rentables.
+* 📦 **Vendeurs Amazon FBA/FBM et multicanaux + modèle de réconciliation des règlements :** Démêlez les rapports de règlement complexes des places de marché, les frais de référencement, les déductions de fulfillment et les réserves sur Amazon Seller Central, bol.com et Shopify depuis un seul classeur unifié.
+* 💼 **CFO fractionnels et comptables e-commerce + modèle financier Excel de clôture mensuelle :** Comblez le fossé chaotique entre les exports CSV bruts des places de marché et les logiciels comptables formels (QuickBooks, Xero, NetSuite) avec une piste d'audit déterministe appariée par ID de commande.
+* 📈 **Agences de marketing à la performance et media buyers + outil d'attribution de marge nette et de ROAS :** Prouvez le bénéfice net réel généré par les dépenses publicitaires en tenant compte des remises sur les lots promotionnels, des coûts d'approvisionnement des cadeaux gratuits et des taux de remboursement après achat.
+* 🚚 **Responsables des opérations omnicanal + tableur d'allocation des coûts de fret 3PL et de lots :** Auditez les factures de logistique tierce (3PL) par rapport aux frais d'expédition estimés et répartissez avec précision les coûts de fulfillment sur des commandes multi-SKU complexes.
 
-**Méthodologies principales incluses :**
-*   **Attribution des coûts en cascade :** Du chiffre d'affaires sont systématiquement déduits : TVA/taxe sur les ventes → frais de traitement des paiements → commissions des places de marché → COGS à date exacte → fret réel = marge nette véritable.
-*   **Appariement déterministe des commandes :** Contrairement aux feuilles de calcul basiques de flux de trésorerie, ce modèle ancre chaque événement financier (paiements retardés, remboursements tardifs, remises fournisseurs rétroactives) strictement à l'*ID de la commande d'origine*. Cela évite les distorsions par décalage de période où les remboursements du mois dernier détruisent les indicateurs de rentabilité du mois en cours.
-*   **Allocation hiérarchique du fret :** Priorise les factures logistiques réelles pour les coûts d'expédition ; ne recourt à une estimation algorithmique validée que lorsque la facturation officielle est en attente.
+*(Remarque : cette boîte à outils Excel est un moteur opérationnel d'intelligence des profits et de réconciliation ; elle n'a pas vocation à remplacer les logiciels de déclaration fiscale légale en partie double ni les plateformes WMS avec scan de codes-barres d'entrepôt en temps réel.)*
 
 ---
 
-## Résolution des problèmes courants de comptabilité et de réconciliation e-commerce
+## Scénarios opérationnels les mieux adaptés : résoudre les goulots d'étranglement e-commerce des débutants et de la haute saison
 
-| Défi comptable opérationnel | Sans réconciliation financière | Avec cette boîte à outils d'intelligence des profits |
+Que vous réconciliiez vos premières 500 commandes transfrontalières ou que vous surviviez aux pics de volume du Black Friday / Cyber Monday (BFCM) du T4, ce **tableur e-commerce de rentabilité téléchargeable** élimine les angles morts financiers des non-comptables :
+
+1. **Le mystère des « revenus élevés, compte bancaire vide » :** Votre tableau de bord célèbre 50 000 $ de ventes mensuelles, mais votre solde bancaire grandit à peine. Vous avez besoin d'un moyen immédiat de voir exactement combien de cash fuit vers les surcharges 3PL, les frais de processeur de paiement, la TVA et les remboursements.
+2. **L'affluence de la haute saison (opérations T4 / BFCM / Prime Day) :** Pendant les semaines promotionnelles de pointe, vous n'avez pas le temps de passer 10 heures à réparer des formules `#REF!` cassées ou à appairer manuellement les paiements Stripe. Vous avez besoin d'un **analyseur de rentabilité copier-coller en 1 minute** pour repérer instantanément les lots remisés qui perdent de l'argent et ajuster les prix à la volée.
+3. **Expansion transfrontalière et multidevise :** Vous achetez des stocks en USD ou RMB, vendez à des clients en EUR et GBP, et payez les entrepôts 3PL en devise locale. Vous avez besoin d'une normalisation automatique des taux de change au moment précis, sans calcul manuel de devises.
+4. **Contrôle financier pour débutants sans comptabilité :** Vous êtes fondateur ou opérationnel, pas CPA ni programmeur Excel. Vous avez besoin d'un classeur pré-ingénierie où toutes les règles d'appariement selon l'exercice, les déductions fiscales et les graphiques du tableau de bord se mettent à jour automatiquement dès que vous collez vos exports CSV bruts.
+
+---
+
+## Flux de travail de démarrage rapide : analyse de rentabilité e-commerce copier-coller en 1 minute (zéro édition de formule)
+
+En coulisses, l'appariement des commandes selon l'exercice, la conversion FX multidevise et l'allocation hiérarchique du fret impliquent des calculs comptables complexes. **Cependant, vous n'avez besoin d'aucune connaissance comptable ni compétence en formules Excel pour exploiter ce système.**
+
+Toutes les règles d'appariement par ID de commande, les tableaux de recherche dynamiques et les formules de profit en cascade sont pré-construits et verrouillés dans le modèle Excel. **Vous n'avez même pas besoin de double-cliquer sur le coin de la cellule pour faire glisser ou copier des formules vers le bas.** Téléchargez simplement le fichier localement, copiez-collez vos données de boutique brutes et consultez votre analyse financière complète en un clic.
+
+### Étape 1 : Configurez les paramètres de base de la boutique (configuration unique de 5 minutes)
+Ouvrez le **tableau de bord des paramètres** et saisissez vos réglages de boutique de base : devise de reporting de base, taux de TVA/taxe sur les ventes par défaut par pays, seuils de tolérance de réconciliation, pourcentages de frais des passerelles de paiement et tables historiques de COGS/FX fournisseurs.
+* **Action pour débutants :** Configurez une seule fois ; mettez à jour uniquement lorsque les prix fournisseurs changent ou que vous ajoutez un nouveau canal de vente.
+
+### Étape 2 : Copiez et collez les exports CSV bruts (journaux Shopify, Amazon, 3PL et paiements)
+Exportez vos rapports CSV standards (commandes, règlements, factures d'expédition 3PL, remboursements et dépenses publicitaires) depuis Shopify, Amazon, bol.com ou Stripe. Copiez les lignes de données brutes et collez-les directement dans les **modules d'entrée** désignés.
+* **Action pour débutants :** Exécution purement copier-coller. **Zéro glissement manuel de formules, zéro formatage de cellules et zéro débogage VLOOKUP requis.**
+
+### Étape 3 : Obtenez un retour de rentabilité instantané en 1 minute et des alertes de réconciliation
+Basculez vers le **moteur de calcul** ou le **tableau de bord exécutif des profits**. En 1 minute, le modèle traite des milliers de lignes en décisions commerciales d'une clarté cristalline :
+* Bénéfice net et pourcentage de marge exacts pour chaque commande et SKU.
+* Alertes immédiates pour les commandes de places de marché impayées ou les factures d'expédition 3PL surfacturées.
+* Classements de rentabilité canal par canal pour couper les produits perdants et scaler les gagnants à forte marge pendant les hautes saisons.
+
+### Étape 4 : Enregistrez localement et répétez pour une clôture mensuelle continue
+Testez dès maintenant le fonctionnement du moteur d'appariement des commandes avec la [démo gratuite du calculateur de marge dans le navigateur](https://hyvoid.github.io/ecommerce-profit-calculator-excel/). Une fois le flux de travail vérifié avec des commandes exemples, passez au classeur Excel permanent hors ligne pour une utilisation continue.
+
+> 🚀 **Devenez dès aujourd'hui un analyste financier e-commerce en 1 minute :**  
+> Cessez de voler à l'aveugle sur le chiffre d'affaires brut ou de gaspiller vos week-ends avec des feuilles de calcul cassées. [**Téléchargez la boîte à outils Excel automatisée de rentabilité et de réconciliation e-commerce (.xlsx)**](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence), collez vos données CSV de boutique localement et identifiez vos décisions les plus rentables en moins de 60 secondes.
+
+---
+
+## La logique métier et la méthodologie : éliminer les angles morts e-commerce coûteux pour les débutants
+
+La plupart des vendeurs en ligne sont victimes de l'**« illusion de croissance »** : le chiffre d'affaires semble impressionnant sur une application Shopify ou Amazon Seller Central, mais le cash net final se vide à cause d'une friction opérationnelle invisible. Cela arrive parce que les rapports par défaut des boutiques s'appuient sur des approximations de trésorerie simplifiées plutôt que sur l'**économie unitaire par commande de type exercice**.
+
+Ce modèle remplace les devinettes par une architecture financière déterministe—donnant aux débutants exactement la même visibilité des profits que les CFO e-commerce institutionnels, sans aucun calcul manuel.
+
+### Quatre angles morts de rentabilité cachés que cette boîte à outils expose immédiatement
+
+1. **Angle mort #1 : le piège temporel de la comptabilité de trésorerie (marges mensuelles faussées)**
+   * **La réalité objective :** Un client achète un article à 100 $ le 28 novembre (Black Friday), mais le paiement Stripe arrive en décembre, la facture d'expédition 3PL arrive à la mi-décembre et le client se fait rembourser en janvier. Dans les tableurs mensuels basiques, novembre semble extrêmement rentable tandis que janvier semble une catastrophe.
+   * **Fonctionnement de la logique automatique (appariement déterministe par ID de commande) :** Chaque événement financier—peu importe quand le cash est encaissé ou quand le remboursement arrive—est automatiquement ancré à l'*ID de la commande d'origine*.
+   * **Avantage financier direct :** Vous voyez la rentabilité nette réelle de votre campagne Black Friday de novembre sans distorsions par décalage de période, ce qui vous empêche de scaler des campagnes publicitaires qui ont en réalité perdu de l'argent après des retours tardifs.
+2. **Angle mort #2 : fuite cachée de frais et de taxes (ROAS d'équilibre surestimé)**
+   * **La réalité objective :** Beaucoup de débutants calculent la marge comme `Prix de vente (100 $) - Coût produit (30 $) = 70 $ de bénéfice brut`, en supposant qu'ils peuvent dépenser jusqu'à 65 $ en publicité pour acquérir un client. Ils oublient que la TVA de 20 % (16,67 $), les frais de passerelle de 2,9 % + 0,30 $ (3,20 $), les frais de référencement de place de marché de 15 % (15,00 $) et les spreads FX transfrontaliers sont déduits d'abord.
+   * **Fonctionnement de la logique automatique (attribution des coûts en cascade) :** Le chiffre d'affaires est dégraissé automatiquement étape par étape : *Ventes brutes → moins TVA/taxe sur les ventes → moins frais des passerelles de paiement → moins commissions des places de marché → moins COGS à date exacte → moins fret 3PL réel = **marge nette véritable**.*
+   * **Avantage financier direct :** Dans l'exemple ci-dessus, le profit réel avant publicité n'est que d'environ 25 $, pas 70 $. Connaître ce nombre exact vous empêche de fixer des objectifs de dépenses publicitaires suicidaires qui vident votre compte bancaire.
+3. **Angle mort #3 : le piège de la subvention d'expédition du produit héros (coûts de lots et de fret mal alloués)**
+   * **La réalité objective :** Quand un client achète un accessoire léger à forte marge avec un article lourd à faible marge (ou reçoit un lot « cadeau gratuit »), les tableurs d'expédition à tarif forfaitaire standards répartissent les frais d'expédition également—ou ignorent totalement le coût du cadeau gratuit.
+   * **Fonctionnement de la logique automatique (allocation hiérarchique du fret et des lots) :** Le moteur priorise d'abord la correspondance exacte des coûts à partir des factures logistiques 3PL réelles, revient à des règles poids/volumétriques validées quand la facturation du transporteur est en attente, et ramène le COGS des composants de lot à la commande parente.
+   * **Avantage financier direct :** Les produits héros à forte marge ne subventionnent plus artificiellement les SKU lourds et déficitaires—vous pouvez repriser les articles lourds ou ajuster immédiatement les seuils de livraison gratuite.
+4. **Angle mort #4 : écrasement rétroactif des prix fournisseurs (rapports historiques corrompus)**
+   * **La réalité objective :** Si votre usine augmente le coût d'un SKU de 10 $ à 12 $ en juin, changer cette cellule dans une feuille Excel normale recalcule accidentellement les commandes de janvier à mai à 12 $—détruisant vos documents comptables historiques.
+   * **Fonctionnement de la logique automatique (verrouillage des coûts et FX au moment précis) :** Chaque commande récupère automatiquement le COGS fournisseur exact, le barème de frais de passerelle et le taux de change en vigueur à la date précise de la commande.
+   * **Avantage financier direct :** Vos états financiers historiques de clôture mensuelle restent verrouillés à 100 %, auditables et exacts pour toujours, même si les prix fournisseurs et les taux de change fluctuent quotidiennement.
+
+---
+
+## Comparaison des fonctionnalités : feuilles de calcul de trésorerie basiques vs boîte à outils automatisée de rentabilité e-commerce
+
+| Opération comptable e-commerce essentielle | Feuilles de calcul manuelles basiques | Boîte à outils automatisée de rentabilité et réconciliation e-commerce |
 | :--- | :--- | :--- |
-| **Mauvaise allocation des frais d'expédition forfaitaires** | Les produits « héros » à marge élevée subventionnent des SKU lourds à faible marge, créant des classements de rentabilité trompeurs et de mauvaises décisions de stock. | L'expédition suit une **hiérarchie d'allocation structurée**, priorisant les factures logistiques réelles avant de recourir à des méthodes d'estimation volumétrique/poids validées. |
-| **COGS dynamique (coût des marchandises vendues)** | Les finances des mois précédents se brisent parce que les anciennes commandes héritent dynamiquement des prix fournisseurs mis à jour aujourd'hui. | Chaque commande est calculée avec le **COGS exact, le taux de change et le barème de frais** en vigueur à la date spécifique de la transaction. |
-| **Écarts de paiements et fonds manquants** | Les équipes financières passent des heures à examiner manuellement les écarts entre Shopify, Amazon, Stripe et les relevés bancaires. | Commandes, paiements de la plateforme, factures 3PL et résultats de réconciliation sont inextricablement liés par un **modèle financier auditable**. |
-| **Suivi des marges pour les lots et cadeaux gratuits** | Les cadeaux gratuits, accessoires promotionnels et composants groupés masquent complètement leur véritable coût d'approvisionnement. | Des **règles de lot** avancées réaffectent avec précision les coûts d'approvisionnement à la commande parente complète avant le calcul de la rentabilité finale. |
-| **Chaos multidevise transfrontalier** | Revenus, logistique et achats sont comparés avec des taux de change incohérents et flottants à travers différentes dates. | Chaque composante financière est normalisée via des **taux de change historiques au moment précis** vers votre unique devise de reporting de base. |
-| **Les remboursements faussent le ROI de la période en cours** | Les remboursements réduisent artificiellement le bénéfice d'aujourd'hui, au lieu de corriger les indicateurs de la période de vente d'origine. | Les remboursements sont strictement **attribués à l'ID de la commande d'origine**, préservant une rentabilité historique et une analyse des tendances marketing très précises. |
+| **Réconciliation bancaire commande-vers-paiement** | Des heures passées à vérifier manuellement les exports CSV Shopify/Amazon contre les relevés bancaires ; les fonds manquants passent inaperçus. | Relie automatiquement les ID de commande clients, les lots de règlements de la plateforme, les factures 3PL et les dépôts bancaires en une seule piste d'audit. |
+| **Allocation d'expédition multi-SKU et lots** | Les moyennes d'expédition forfaitaires faussent les marges par SKU ; les produits lourds perdent secrètement du cash sur les promotions avec livraison gratuite. | Utilise une hiérarchie d'allocation structurée : apparie d'abord les factures réelles des transporteurs 3PL, puis applique les règles poids/volume. |
+| **Mises à jour des COGS fournisseurs et des taux FX** | La mise à jour d'une cellule de coût SKU ou de taux de change écrase les calculs des mois passés et rompt l'exactitude historique du P&L. | Un moteur de recherche au moment précis verrouille le COGS exact à la date de transaction, les paliers de frais et les taux FX historiques par commande. |
+| **Remboursements, retours et ajustements tardifs** | Les remboursements déduisent du revenu du mois en cours, ruinant le suivi du ROAS et des profits après les hautes saisons. | Attribue strictement les remboursements, chargebacks et avoirs à l'ID de commande d'origine et à la date de vente historique. |
+| **Lots promotionnels et cadeaux gratuits** | Les cadeaux gratuits et les lots multi-paquets masquent les coûts d'approvisionnement des composants, gonflant le ROI promotionnel perçu. | Des règles de mappage de lots intégrées déduisent automatiquement tous les COGS de composants du revenu de la commande parente. |
+| **Charge de travail quotidienne et de clôture pour débutants** | Sujette aux erreurs `#REF!` et `VLOOKUP` ; exige un glissement manuel de formules et des compétences comptables avancées. | Pré-ingénierie avec des tableaux auto-extensibles ; collez les exports CSV bruts et consultez des tableaux de bord de profit actualisés en 1 minute. |
 
 ---
 
-## Qui a besoin de ce suivi de marge bénéficiaire e-commerce ? (Cas d'usage et rôles)
+## À propos de Theseus Workshop : outils d'analyse commerciale et de décision financière plug-and-play
 
-Cette boîte à outils est conçue pour les professionnels orientés données qui ont besoin d'une analyse de rentabilité de niveau entreprise sans le coût à six chiffres ni les 6 mois de mise en œuvre d'une grande plateforme ERP ou BI (Business Intelligence).
+Je conçois des outils d'aide à la décision légers et performants basés sur Microsoft Excel pour les goulots d'étranglement opérationnels et financiers qui deviennent ingérables dès que trop de pièces mobiles—places de marché, devises, logistique 3PL et passerelles de paiement—interagissent en même temps.
 
-*   **Fondateurs e-commerce et propriétaires de marques :** Ont besoin d'un *tableau de bord de profit omnicanal* pour faire évoluer agressivement plusieurs canaux de vente sans dépenser trop en publicité sur la base d'hypothèses fausses de marge brute.
-*   **CFO fractionnels et contrôleurs financiers :** Exigent un fiable *modèle Excel de réconciliation financière* pour combler l'écart chaotique entre les exports bruts désordonnés de Shopify/Amazon et le logiciel comptable formel (Xero/QuickBooks) lors de la clôture mensuelle.
-*   **Responsables des opérations de places de marché :** Cherchent un précis *calculateur de rentabilité au niveau des commandes* pour évaluer le véritable ROI des lots promotionnels, des ventes flash et des stratégies d'expédition 3PL transfrontalières.
-*   **Agences de marketing à la performance :** Ont besoin d'un clair *outil d'attribution ROAS et profit* pour prouver à leurs clients le bénéfice net réel généré par les dépenses publicitaires, en tenant compte des retours et du COGS.
-*   **Professionnels Excel avancés :** Qui ont besoin d'un cadre analytique transparent et auditable où la logique est visible, plutôt que d'un autre tableau de bord SaaS « boîte noire ».
+Plutôt que de demander comment acheter un autre abonnement SaaS mensuel coûteux, chaque outil de **Theseus Workshop** commence par une seule question :
 
-*(Remarque : cette boîte à outils est un moteur analytique d'aide à la décision. Elle n'a **pas** vocation à remplacer les logiciels officiels de comptabilité en partie double, les systèmes de gestion d'entrepôt (WMS) ni les plateformes de conformité fiscale légale.)*
+> **« Quelles données financières spécifiques doivent exister en un seul endroit auditable pour que la prochaine décision stratégique puisse être prise en 1 minute en toute confiance ? »**
 
----
+Plutôt que de remplacer vos systèmes de boutique ou comptables existants, nos modèles ingèrent les données CSV dispersées que vous avez déjà et les transforment en un cadre analytique répétable copier-coller pour l'optimisation des prix, les achats de stock et le contrôle définitif de la rentabilité.
 
-## À propos du créateur
-
-Je conçois des outils d'aide à la décision légers et performants basés sur Excel pour les goulots d'étranglement opérationnels qui deviennent ingérables dès que trop de pièces mobiles (plateformes, devises, logistique) interagissent en même temps.
-
-Plutôt que de demander comment acheter un autre abonnement SaaS pour automatiser chaque tâche, je commence généralement par une autre question :
-
-> **« Quelles données financières spécifiques doivent exister en un seul endroit auditable pour que la prochaine décision stratégique puisse être prise en toute confiance ? »**
-
-Cette boîte à outils incarne cette philosophie. Plutôt que de remplacer vos systèmes métier existants, elle ingère les données financières dispersées qui existent déjà et les orchestre dans un cadre analytique reproductible pour l'optimisation des prix, les achats de stock, les revues opérationnelles et les décisions définitives de rentabilité.
+* 🛒 **Explorez tous les modèles business et financiers :** [**Visitez la boutique officielle Theseus Workshop pour des tableaux de bord Excel plug-and-play et des outils d'aide à la décision**](https://www.theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=about-section-main-store)
+* 📥 **Obtenez ce système de profit e-commerce :** [**Téléchargez la boîte à outils Excel de rentabilité et réconciliation e-commerce (.xlsx) sur Theseus Workshop**](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
+* 🖥️ **Testez d'abord dans le navigateur :** [**Ouvrez la démo gratuite interactive du calculateur de marge bénéficiaire e-commerce basé sur le Web**](https://hyvoid.github.io/ecommerce-profit-calculator-excel/)
 
 ---
 
@@ -499,34 +543,37 @@ Les sorties comprennent le statut de réconciliation, les différences monétair
 
 ---
 
-## La logique métier et la méthodologie
-
-La plupart des entreprises e-commerce finissent par tomber dans l'**« illusion de croissance »**—le chiffre d'affaires semble sain sur les tableaux de bord Shopify ou Amazon Seller Central, mais le bénéfice net final se vide à cause d'une friction opérationnelle invisible. Cela arrive parce que le reporting standard repose sur des approximations de trésorerie plutôt que sur l'exacte **économie unitaire au niveau des commandes**.
-
-Cette boîte à outils de profit et de réconciliation e-commerce remplace les métriques fragmentées des tableaux de bord par un cadre déterministe de modélisation financière. Voici la méthodologie utilisée pour résoudre des problèmes comptables omnicanal complexes :
-
-### 1. Appariement déterministe au niveau des commandes (résoudre le décalage temporel)
-*   **Le problème métier :** Les remboursements, les factures logistiques 3PL et les paiements des places de marché (de Stripe, PayPal ou Amazon) ne sont souvent réglés que des semaines ou des mois après la vente initiale. L'utilisation de feuilles de calcul standards de flux de trésorerie fausse votre analyse mensuelle de marge.
-*   **Notre méthodologie :** Plutôt qu'un suivi des flux de trésorerie par période, cette boîte à outils ancre chaque événement financier strictement à l'*ID de la commande d'origine*. Cet **appariement financier de type exercice** garantit que les remboursements retardés ou les remises fournisseurs rétroactives du mois dernier corrigent précisément la performance historique, au lieu de détruire artificiellement les indicateurs de bénéfice net du mois en cours.
-
-### 2. Attribution des coûts en cascade (exposer les frais cachés du e-commerce)
-*   **Le problème métier :** Les marges brutes e-commerce sont fréquemment mal calculées parce que les frais des passerelles de paiement, les déductions de TVA/taxe sur les ventes et les spreads de conversion de devises transfrontalières sont soit mélangés, soit entièrement ignorés dans les rapports CMS par défaut.
-*   **Notre méthodologie :** Nous mettons en œuvre un rigoureux **modèle d'attribution de marge en cascade**. Le chiffre d'affaires brut est systématiquement dégraissé étape par étape pour révéler l'argent réellement restant : 
-    *Ventes brutes → moins TVA/taxes → moins frais de traitement des paiements → moins commissions des places de marché → moins COGS à date exacte (coût des marchandises vendues) → moins fret réel = **marge nette véritable**.*
-
-### 3. Allocation hiérarchique du fret (corriger les coûts multi-SKU et des lots)
-*   **Le problème métier :** L'utilisation d'estimations d'expédition forfaitaires fait que les produits « héros » à marge élevée subventionnent des SKU lourds à faible marge. Ce point aveugle conduit à des achats de stock désastreux et à des objectifs de ROAS (retour sur dépenses publicitaires) désalignés.
-*   **Notre méthodologie :** La boîte à outils utilise l'**allocation hiérarchique du fret 3PL**. Le moteur priorise d'abord la correspondance exacte des coûts à partir des factures logistiques réelles. Si la facturation officielle du transporteur est en attente, la logique revient à une estimation algorithmique validée (basée sur le poids volumétrique ou une logique métier personnalisée), garantissant que les lots promotionnels et les commandes multi-SKU ne reçoivent jamais de coûts d'expédition faussés.
-
----
-
 
 ## Autres outils de cette série
 
-- **Boîte à outils de coût de main-d'œuvre manufacturière et de planification des capacités** — Analysez l'utilisation de la main-d'œuvre, la capacité de production et l'efficacité des coûts de main-d'œuvre.
-- **Boîte à outils de planification des stocks adaptative à la demande** — Planifiez le réapprovisionnement avec le délai, la variabilité de la demande et les scénarios d'achat.
-- **Boîte à outils d'opérations de biens locatifs** — Surveillez l'occupation, les vacances, la maintenance et la performance locative depuis un seul classeur.
-- **Boîte à outils de planification de portefeuille de projets** — Suivez les budgets, les calendriers, les priorités et l'avancement des livraisons sur plusieurs initiatives.
+- **[rolling-cashflow-forecast](https://github.com/HyVoid/rolling-cashflow-forecast)** — Pourquoi la trésorerie est-elle toujours tendue ? — Prévoyez la liquidité future sous des hypothèses opérationnelles et financières changeantes.
+- **[Multi-Currency-Trade-Financial-Analyzer](https://github.com/HyVoid/Multi-Currency-Trade-Financial-Analyzer)** — Quels flux commerciaux sont réellement rentables après les effets de change ? — Mesurez la rentabilité commerciale multidevise des opérations transfrontalières.
+- **[RTL_Loan_Sizer_Pricer](https://github.com/HyVoid/RTL_Loan_Sizer_Pricer)** — Quelle structure de financement est soutenable selon différents scénarios d'emprunteur et de garanties ? — Comparez des scénarios de prêt à l'aide d'hypothèses de financement ajustées au risque.
+- **[Personal-Business-Dual-Track-Budget-Manager](https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager)** — Où les flux de trésorerie personnels et professionnels sont-ils mélangés ou mal alloués ? — Séparez les flux de trésorerie personnels et professionnels en pistes budgétaires suivies indépendamment.
+- **[Multifamily-Value-Add-Acquisition-Model](https://github.com/HyVoid/Multifamily-Value-Add-Acquisition-Model)** — Cette acquisition immobilière crée-t-elle encore de la valeur de fonds propres après rénovation et hypothèses d'exploitation ? — Évaluez les rendements d'acquisition multifamiliaux sous financement de rénovation et scénarios d'exploitation.
+- **[Real-Estate-Valuation-all-in-one-calculator](https://github.com/HyVoid/Real-Estate-Valuation-all-in-one-calculator)** — Combien vaut un bien selon différentes méthodes d'évaluation ? — Calculez la valeur d'un bien selon plusieurs méthodes d'évaluation avec modélisation fiscale et des dépenses en capital.
+- **[multi-entity-expense-allocation](https://github.com/HyVoid/multi-entity-expense-allocation)** — Les coûts partagés sont-ils alloués équitablement entre entités, ou certains actifs sont-ils surchargés pendant que d'autres échappent à leur véritable exposition aux coûts ? — Répartissez les factures fournisseurs entre plusieurs entités juridiques et actifs opérationnels selon des méthodologies d'allocation configurables.
+- **[investment-pool-nav-excel-template](https://github.com/HyVoid/investment-pool-nav-excel-template)** — Qu'est-ce qui est réellement dû à chaque participant selon son moment d'entrée et la valeur actuelle du pool ? — Suivez continuellement la propriété d'un pool d'investissement via une comptabilité unitaire basée sur la NAV.
+- **[shopify-cash-flow-forecast-excel-toolkit](https://github.com/HyVoid/shopify-cash-flow-forecast-excel-toolkit)** — Quels engagements opérationnels créeront un problème de trésorerie dans les douze prochaines semaines ? — Connectez ventes Shopify, transactions bancaires, dépenses publicitaires et achats de stocks dans un cadre unifié de décision de flux de trésorerie.
+- **[Revenue-Management-Decision-Engine](https://github.com/HyVoid/Revenue-Management-Decision-Engine)** — Assez d'informations significatives ont-elles changé pour justifier un ajustement de prix ? — Gouvernez les recommandations tarifaires via des garde-fous configurables qui préviennent la volatilité inutile du revenu.
+- **[amazon-wbr-sqp-analytics-template](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template)** — Qu'est-ce qui a réellement changé dans l'activité cette période et quels produits ou mots-clés ont alimenté le changement ? — Transformez les exports SQP d'Amazon Seller Central et Sellerboard en revues commerciales exécutives standardisées.
+- **[food-manufacturing-cost-calculator-excel](https://github.com/HyVoid/food-manufacturing-cost-calculator-excel)** — Quels produits sont réellement rentables après allocation de tous les coûts de fabrication et lesquels détruisent la marge ? — Allouez main-d'œuvre d'usine, services, frais généraux et coûts matériaux à chaque SKU pour une véritable économie unitaire de fabrication.
+- **[construction-job-costing-excel-template](https://github.com/HyVoid/construction-job-costing-excel-template)** — Quels projets d'entrepreneur et clients sont réellement rentables après tous les coûts de chantier ? — Connectez estimation d'appels d'offres, exécution des travaux et suivi des coûts réels dans un cadre unifié de rentabilité entrepreneur.
+- **[Flora-Pastry-Coffee-Shop-Operating-Control-System](https://github.com/HyVoid/Flora-Pastry-Coffee-Shop-Operating-Control-System)** — La boutique est-elle réellement rentable après tous les coûts d'ingrédients, de main-d'œuvre et d'exploitation ? — Connectez coût des recettes, ventes, consommation de stocks et charges d'exploitation dans un cadre unifié de rentabilité et de trésorerie.
+- **[freight-forwarder-job-costing-excel](https://github.com/HyVoid/freight-forwarder-job-costing-excel)** — Quelles réservations de fret sont réellement rentables après tous les coûts, frais et conversions de devises ? — Mesurez la rentabilité du fret par réservation en réconciliant revenus, COGS, frais bancaires et coûts de conteneurs sur des transactions multidevises.
+- **[cross-entity-logistics-console](https://github.com/HyVoid/cross-entity-logistics-console)** — Quels conteneurs et clients sont réellement rentables à travers les opérations douanières et de flotte ? — Consolidez les données de dédouanement et d'exécution de flotte en une vue de rentabilité unique au niveau du conteneur.
+- **[family-loan-tracker-excel](https://github.com/HyVoid/family-loan-tracker-excel)** — Qu'est-ce qui est réellement dû aujourd'hui après des années de transferts et d'intérêts courus ? — Réconciliez les transferts de fonds à long terme et les intérêts courus en un solde restant dû actuel.
+- **[3-statement-financial-model-excel](https://github.com/HyVoid/3-statement-financial-model-excel)** — À quoi ressembleront nos états financiers sous différents scénarios d'exploitation et de financement ? — Prévoyez des états financiers intégrés en reliant revenus, charges, fonds de roulement et dettes dans un modèle unifié.
+- **[assisted-living-cost-allocation-excel](https://github.com/HyVoid/assisted-living-cost-allocation-excel)** — Quelle part de la marge déclarée de chaque bâtiment est réellement générée par ce bâtiment plutôt que par la manière dont les coûts du siège ont été alloués ? — Allouez les charges partagées entre unités opérationnelles en préservant les transactions sources et en réconciliant les résultats par unité avec les totaux de la société.
+- **[real-estate-development-feasibility-excel](https://github.com/HyVoid/real-estate-development-feasibility-excel)** — À quel prix d'acquisition foncière maximal ce projet de développement devient-il un investissement bancable ? — Évaluez les opportunités de développement résidentiel en présélectionnant des comparables fonciers, en estimant les coûts de construction et en calculant des seuils de marge sur coûts.
+- **[uk-residential-costing-software](https://github.com/HyVoid/uk-residential-costing-software)** — Ce projet de construction atteindra-t-il réellement sa marge cible une fois la logistique de chantier, les facteurs de déchets et les variations des taux de corps de métier pris en compte ? — Séparez les quantités physiques du bâtiment des taux volatils des corps de métier et des installations de chantier pour décliner en cascade les majorations commerciales à travers les budgets d'appel d'offres et les devis clients.
+- **[b2b-pricing-landed-cost-excel-model](https://github.com/HyVoid/b2b-pricing-landed-cost-excel-model)** — Quels prix de gros et segments clients préservent réellement la marge une fois fret, droits de douane, conditions de paiement et FX entièrement coûtés ? — Calculez les coûts rendus au niveau SKU, le coût de service et les cascades de prix de marge poche pour simuler la rentabilité du commerce de gros transfrontalier.
+- **[custom-label-pricing-calculator](https://github.com/HyVoid/custom-label-pricing-calculator)** — Que devrions-nous facturer pour une commande d'étiquettes personnalisées à chaque palier de quantité pour rester compétitif et rentable ? — Calculez une tarification paramétrique des étiquettes en modélisant les coûts au pouce carré du substrat, les frais de réglage et les paliers de remise par quantité face aux benchmarks concurrents.
+- **[landed-cost-calculator-retail-deduction-excel](https://github.com/HyVoid/landed-cost-calculator-retail-deduction-excel)** — Quelle est la véritable marge nette de chaque SKU une fois les coûts rendus réels et les déductions des distributeurs prises en compte ? — Réconciliez les coûts rendus estimés au bon de commande contre le fret réel, les droits, le FX et le transport terminal tout en auditant les déductions de reversement des distributeurs pour révéler la marge nette au niveau SKU.
+- **[saas-finance-mrr-burn-rate-excel](https://github.com/HyVoid/saas-finance-mrr-burn-rate-excel)** — Pouvons-nous honorer les engagements d'embauche, de marketing et de fournisseurs de cette semaine sans manquer de cash avant la clôture des comptes ? — Suivez le rythme hebdomadaire de consommation de cash, les écarts de cascade MRR/ARR, les métriques de rétention et les coûts de paie contre le budget avant la clôture mensuelle.
+- **[startup-financial-model-excel](https://github.com/HyVoid/startup-financial-model-excel)** — Notre plan de croissance manquera-t-il de cash avant que la monétisation des cohortes ne rattrape ? — Prévoyez la consommation de cash pluriannuelle, la piste de trésorerie, l'économie unitaire et la dilution de levée de fonds à partir d'hypothèses bottom-up de cohortes et d'effectifs.
+- **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — Chaque vitrine Shopify est-elle réellement rentable une fois les coûts SKU réels, les charges partagées et les frais bancaires réconciliés ? — Réconciliez les exports de ventes Shopify multi-boutiques contre COGS au niveau SKU, OPEX multidevise allouée et relevés bancaires pour produire un P&L mensuel fiable.
+- **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — Quelles réservations de circuits génèrent réellement un bénéfice net et un flux de trésorerie positif après coûts fournisseurs et encaissements B2B ? — Calculez coûts de dossier par réservation, marges brutes, règlement clients/fournisseurs et flux de trésorerie d'exploitation sur plusieurs devises.
 
 D'autres outils d'aide à la décision opérationnelle sont disponibles via notre [Site Web](https://www.theseusworkshop.com/) et le profil GitHub.
 
